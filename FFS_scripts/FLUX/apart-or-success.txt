@@ -1,0 +1,7 @@
+condition1 = {
+dist_01 > 4.0
+}
+condition2 = {
+bonds_01 >= 15
+ dist_02 > 4 
+}

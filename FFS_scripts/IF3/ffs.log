@@ -1,0 +1,2242 @@
+Main: Found 1013 configurations with pattern: ../IF2/success*
+Main: Warning: overwriting conditions file
+Main: COMMAND: ../../oxDNA input ffs_file=conditions.txt print_energy_every=1e5 print_conf_every=1e6 no_stdout_energy=1 refresh_velocity=0 restart_step_counter=1 
+Main: STARTING new shooting for 100
+Main: number of initial confs: 1013
+starting processes...
+Timer started at Wed Jan 17 23:45:33 2024
+Worker 0 started
+Worker 1 started
+Worker 2 started
+Worker 3 started
+Worker 4 started
+Worker 5 started
+Worker 6 started
+Worker 7 started
+Worker 8 started
+Worker 9 started
+Worker 10 started
+Worker 11 started
+Worker 12 started
+Worker 14 started
+Worker 13 started
+Worker 15 started
+waiting for processes to finish
+Worker 18 started
+Worker 19 started
+Worker 17 started
+Worker 16 started
+Timer: at Wed Jan 17 23:45:43 2024, no successes yet over 20 attempts
+SUCCESS: worker 19: starting from conf_index 578 and seed 1705535151
+Timer: at Wed Jan 17 23:45:53 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 20.0211 (20.0211 sec)
+Timer: at Wed Jan 17 23:46:03 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 30.0321 (30.0321 sec)
+Timer: at Wed Jan 17 23:46:13 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 40.0431 (40.0431 sec)
+Timer: at Wed Jan 17 23:46:23 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 50.0541 (50.0541 sec)
+Timer: at Wed Jan 17 23:46:33 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 60.0651 (60.0651 sec)
+Timer: at Wed Jan 17 23:46:43 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 70.0761 (70.0761 sec)
+Timer: at Wed Jan 17 23:46:53 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 80.0871 (80.0871 sec)
+Timer: at Wed Jan 17 23:47:03 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 90.0981 (90.0981 sec)
+Timer: at Wed Jan 17 23:47:13 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 100.109 (100.109 sec)
+Timer: at Wed Jan 17 23:47:23 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 110.12 (110.12 sec)
+Timer: at Wed Jan 17 23:47:33 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 120.131 (120.131 sec)
+Timer: at Wed Jan 17 23:47:43 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 130.142 (130.142 sec)
+Timer: at Wed Jan 17 23:47:53 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 140.153 (140.153 sec)
+Timer: at Wed Jan 17 23:48:04 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 150.164 (150.164 sec)
+Timer: at Wed Jan 17 23:48:14 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 160.175 (160.175 sec)
+Timer: at Wed Jan 17 23:48:24 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 170.186 (170.186 sec)
+Timer: at Wed Jan 17 23:48:34 2024: successes: 1, attemps: 21: prob: 0.047619 time per success: 180.197 (180.197 sec)
+SUCCESS: worker 4: starting from conf_index 330 and seed 1705535138
+Timer: at Wed Jan 17 23:48:44 2024: successes: 2, attemps: 22: prob: 0.0909091 time per success: 95.104 (190.208 sec)
+Timer: at Wed Jan 17 23:48:54 2024: successes: 2, attemps: 22: prob: 0.0909091 time per success: 100.11 (200.219 sec)
+SUCCESS: worker 17: starting from conf_index 364 and seed 1705535152
+Timer: at Wed Jan 17 23:49:04 2024: successes: 3, attemps: 23: prob: 0.130435 time per success: 70.0767 (210.23 sec)
+Timer: at Wed Jan 17 23:49:14 2024: successes: 3, attemps: 23: prob: 0.130435 time per success: 73.4137 (220.241 sec)
+Timer: at Wed Jan 17 23:49:24 2024: successes: 3, attemps: 23: prob: 0.130435 time per success: 76.7507 (230.252 sec)
+Timer: at Wed Jan 17 23:49:34 2024: successes: 3, attemps: 23: prob: 0.130435 time per success: 80.0877 (240.263 sec)
+Timer: at Wed Jan 17 23:49:44 2024: successes: 3, attemps: 23: prob: 0.130435 time per success: 83.4247 (250.274 sec)
+Timer: at Wed Jan 17 23:49:54 2024: successes: 3, attemps: 23: prob: 0.130435 time per success: 86.7617 (260.285 sec)
+Timer: at Wed Jan 17 23:50:04 2024: successes: 3, attemps: 23: prob: 0.130435 time per success: 90.0987 (270.296 sec)
+Timer: at Wed Jan 17 23:50:14 2024: successes: 3, attemps: 23: prob: 0.130435 time per success: 93.4357 (280.307 sec)
+Timer: at Wed Jan 17 23:50:24 2024: successes: 3, attemps: 23: prob: 0.130435 time per success: 96.7727 (290.318 sec)
+Timer: at Wed Jan 17 23:50:34 2024: successes: 3, attemps: 23: prob: 0.130435 time per success: 100.11 (300.329 sec)
+Timer: at Wed Jan 17 23:50:44 2024: successes: 3, attemps: 23: prob: 0.130435 time per success: 103.447 (310.34 sec)
+Timer: at Wed Jan 17 23:50:54 2024: successes: 3, attemps: 23: prob: 0.130435 time per success: 106.784 (320.351 sec)
+Timer: at Wed Jan 17 23:51:04 2024: successes: 3, attemps: 23: prob: 0.130435 time per success: 110.121 (330.362 sec)
+SUCCESS: worker 0: starting from conf_index 828 and seed 1705535134
+SUCCESS: worker 5: starting from conf_index 220 and seed 1705535139
+Timer: at Wed Jan 17 23:51:14 2024: successes: 5, attemps: 25: prob: 0.2 time per success: 68.0746 (340.373 sec)
+Timer: at Wed Jan 17 23:51:24 2024: successes: 5, attemps: 25: prob: 0.2 time per success: 70.0768 (350.384 sec)
+SUCCESS: worker 17: starting from conf_index 228 and seed 1705535156
+Timer: at Wed Jan 17 23:51:34 2024: successes: 6, attemps: 26: prob: 0.230769 time per success: 60.0658 (360.395 sec)
+Timer: at Wed Jan 17 23:51:44 2024: successes: 6, attemps: 26: prob: 0.230769 time per success: 61.7343 (370.406 sec)
+SUCCESS: worker 14: starting from conf_index 92 and seed 1705535147
+Timer: at Wed Jan 17 23:51:54 2024: successes: 7, attemps: 27: prob: 0.259259 time per success: 54.3453 (380.417 sec)
+SUCCESS: worker 6: starting from conf_index 410 and seed 1705535140
+Timer: at Wed Jan 17 23:52:04 2024: successes: 8, attemps: 28: prob: 0.285714 time per success: 48.8035 (390.428 sec)
+Timer: at Wed Jan 17 23:52:14 2024: successes: 8, attemps: 28: prob: 0.285714 time per success: 50.0549 (400.439 sec)
+Timer: at Wed Jan 17 23:52:24 2024: successes: 8, attemps: 28: prob: 0.285714 time per success: 51.3063 (410.45 sec)
+Timer: at Wed Jan 17 23:52:34 2024: successes: 8, attemps: 28: prob: 0.285714 time per success: 52.5576 (420.461 sec)
+Timer: at Wed Jan 17 23:52:44 2024: successes: 8, attemps: 28: prob: 0.285714 time per success: 53.809 (430.472 sec)
+Timer: at Wed Jan 17 23:52:54 2024: successes: 8, attemps: 28: prob: 0.285714 time per success: 55.0604 (440.483 sec)
+Timer: at Wed Jan 17 23:53:04 2024: successes: 8, attemps: 28: prob: 0.285714 time per success: 56.3118 (450.494 sec)
+Timer: at Wed Jan 17 23:53:14 2024: successes: 8, attemps: 28: prob: 0.285714 time per success: 57.5631 (460.505 sec)
+SUCCESS: worker 17: starting from conf_index 74 and seed 1705535159
+Timer: at Wed Jan 17 23:53:24 2024: successes: 9, attemps: 29: prob: 0.310345 time per success: 52.2796 (470.516 sec)
+Timer: at Wed Jan 17 23:53:34 2024: successes: 9, attemps: 29: prob: 0.310345 time per success: 53.3919 (480.527 sec)
+Timer: at Wed Jan 17 23:53:44 2024: successes: 9, attemps: 29: prob: 0.310345 time per success: 54.5042 (490.538 sec)
+Timer: at Wed Jan 17 23:53:54 2024: successes: 9, attemps: 29: prob: 0.310345 time per success: 55.6166 (500.549 sec)
+Timer: at Wed Jan 17 23:54:04 2024: successes: 9, attemps: 29: prob: 0.310345 time per success: 56.7289 (510.56 sec)
+Timer: at Wed Jan 17 23:54:14 2024: successes: 9, attemps: 29: prob: 0.310345 time per success: 57.8412 (520.571 sec)
+Timer: at Wed Jan 17 23:54:24 2024: successes: 9, attemps: 29: prob: 0.310345 time per success: 58.9536 (530.582 sec)
+Timer: at Wed Jan 17 23:54:34 2024: successes: 9, attemps: 29: prob: 0.310345 time per success: 60.0659 (540.593 sec)
+SUCCESS: worker 11: starting from conf_index 956 and seed 1705535145
+Timer: at Wed Jan 17 23:54:44 2024: successes: 10, attemps: 30: prob: 0.333333 time per success: 55.0604 (550.604 sec)
+Timer: at Wed Jan 17 23:54:54 2024: successes: 10, attemps: 30: prob: 0.333333 time per success: 56.0615 (560.615 sec)
+Timer: at Wed Jan 17 23:55:04 2024: successes: 10, attemps: 30: prob: 0.333333 time per success: 57.0626 (570.626 sec)
+Timer: at Wed Jan 17 23:55:14 2024: successes: 10, attemps: 30: prob: 0.333333 time per success: 58.0637 (580.637 sec)
+SUCCESS: worker 16: starting from conf_index 595 and seed 1705535153
+Timer: at Wed Jan 17 23:55:24 2024: successes: 11, attemps: 31: prob: 0.354839 time per success: 53.6953 (590.648 sec)
+Timer: at Wed Jan 17 23:55:34 2024: successes: 11, attemps: 31: prob: 0.354839 time per success: 54.6054 (600.659 sec)
+Timer: at Wed Jan 17 23:55:44 2024: successes: 11, attemps: 31: prob: 0.354839 time per success: 55.5155 (610.67 sec)
+Timer: at Wed Jan 17 23:55:54 2024: successes: 11, attemps: 31: prob: 0.354839 time per success: 56.4256 (620.681 sec)
+Timer: at Wed Jan 17 23:56:04 2024: successes: 11, attemps: 31: prob: 0.354839 time per success: 57.3356 (630.692 sec)
+Timer: at Wed Jan 17 23:56:14 2024: successes: 11, attemps: 31: prob: 0.354839 time per success: 58.2457 (640.703 sec)
+Timer: at Wed Jan 17 23:56:24 2024: successes: 11, attemps: 31: prob: 0.354839 time per success: 59.1558 (650.714 sec)
+FAILURE: worker 18: starting from conf_index 381 and seed 1705535150
+Timer: at Wed Jan 17 23:56:34 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 60.0659 (660.725 sec)
+Timer: at Wed Jan 17 23:56:44 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 60.976 (670.736 sec)
+Timer: at Wed Jan 17 23:56:54 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 61.8861 (680.747 sec)
+Timer: at Wed Jan 17 23:57:04 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 62.7962 (690.758 sec)
+Timer: at Wed Jan 17 23:57:14 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 63.7063 (700.769 sec)
+Timer: at Wed Jan 17 23:57:24 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 64.6164 (710.78 sec)
+Timer: at Wed Jan 17 23:57:34 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 65.5265 (720.791 sec)
+Timer: at Wed Jan 17 23:57:44 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 66.4366 (730.802 sec)
+Timer: at Wed Jan 17 23:57:54 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 67.3466 (740.813 sec)
+Timer: at Wed Jan 17 23:58:04 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 68.2567 (750.824 sec)
+Timer: at Wed Jan 17 23:58:14 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 69.1668 (760.835 sec)
+Timer: at Wed Jan 17 23:58:24 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 70.0769 (770.846 sec)
+Timer: at Wed Jan 17 23:58:34 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 70.987 (780.857 sec)
+Timer: at Wed Jan 17 23:58:44 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 71.8971 (790.868 sec)
+Timer: at Wed Jan 17 23:58:54 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 72.8072 (800.879 sec)
+Timer: at Wed Jan 17 23:59:04 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 73.7173 (810.89 sec)
+Timer: at Wed Jan 17 23:59:14 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 74.6274 (820.901 sec)
+Timer: at Wed Jan 17 23:59:24 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 75.5375 (830.912 sec)
+Timer: at Wed Jan 17 23:59:34 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 76.4476 (840.923 sec)
+Timer: at Wed Jan 17 23:59:44 2024: successes: 11, attemps: 32: prob: 0.34375 time per success: 77.3576 (850.934 sec)
+SUCCESS: worker 9: starting from conf_index 495 and seed 1705535143
+Timer: at Wed Jan 17 23:59:54 2024: successes: 12, attemps: 33: prob: 0.363636 time per success: 71.7454 (860.945 sec)
+Timer: at Thu Jan 18 00:00:04 2024: successes: 12, attemps: 33: prob: 0.363636 time per success: 72.5797 (870.956 sec)
+Timer: at Thu Jan 18 00:00:14 2024: successes: 12, attemps: 33: prob: 0.363636 time per success: 73.4139 (880.967 sec)
+Timer: at Thu Jan 18 00:00:24 2024: successes: 12, attemps: 33: prob: 0.363636 time per success: 74.2482 (890.978 sec)
+FAILURE: worker 19: starting from conf_index 716 and seed 1705535154
+Timer: at Thu Jan 18 00:00:34 2024: successes: 12, attemps: 34: prob: 0.352941 time per success: 75.0824 (900.989 sec)
+SUCCESS: worker 19: starting from conf_index 856 and seed 1705535167
+Timer: at Thu Jan 18 00:00:44 2024: successes: 13, attemps: 35: prob: 0.371429 time per success: 70.0769 (911 sec)
+Timer: at Thu Jan 18 00:00:54 2024: successes: 13, attemps: 35: prob: 0.371429 time per success: 70.847 (921.011 sec)
+Timer: at Thu Jan 18 00:01:04 2024: successes: 13, attemps: 35: prob: 0.371429 time per success: 71.6171 (931.022 sec)
+SUCCESS: worker 2: starting from conf_index 905 and seed 1705535136
+Timer: at Thu Jan 18 00:01:14 2024: successes: 14, attemps: 36: prob: 0.388889 time per success: 67.2166 (941.033 sec)
+Timer: at Thu Jan 18 00:01:24 2024: successes: 14, attemps: 36: prob: 0.388889 time per success: 67.9317 (951.044 sec)
+Timer: at Thu Jan 18 00:01:34 2024: successes: 14, attemps: 36: prob: 0.388889 time per success: 68.6468 (961.055 sec)
+SUCCESS: worker 4: starting from conf_index 595 and seed 1705535155
+Timer: at Thu Jan 18 00:01:44 2024: successes: 15, attemps: 37: prob: 0.405405 time per success: 64.7377 (971.066 sec)
+Timer: at Thu Jan 18 00:01:54 2024: successes: 15, attemps: 37: prob: 0.405405 time per success: 65.4051 (981.077 sec)
+SUCCESS: worker 9: starting from conf_index 237 and seed 1705535166
+Timer: at Thu Jan 18 00:02:04 2024: successes: 16, attemps: 38: prob: 0.421053 time per success: 61.943 (991.088 sec)
+Timer: at Thu Jan 18 00:02:14 2024: successes: 16, attemps: 38: prob: 0.421053 time per success: 62.5687 (1001.1 sec)
+Timer: at Thu Jan 18 00:02:24 2024: successes: 16, attemps: 38: prob: 0.421053 time per success: 63.1944 (1011.11 sec)
+Timer: at Thu Jan 18 00:02:34 2024: successes: 16, attemps: 38: prob: 0.421053 time per success: 63.8201 (1021.12 sec)
+Timer: at Thu Jan 18 00:02:44 2024: successes: 16, attemps: 38: prob: 0.421053 time per success: 64.4458 (1031.13 sec)
+Timer: at Thu Jan 18 00:02:54 2024: successes: 16, attemps: 38: prob: 0.421053 time per success: 65.0714 (1041.14 sec)
+Timer: at Thu Jan 18 00:03:04 2024: successes: 16, attemps: 38: prob: 0.421053 time per success: 65.6971 (1051.15 sec)
+Timer: at Thu Jan 18 00:03:15 2024: successes: 16, attemps: 38: prob: 0.421053 time per success: 66.3228 (1061.17 sec)
+Timer: at Thu Jan 18 00:03:25 2024: successes: 16, attemps: 38: prob: 0.421053 time per success: 66.9485 (1071.18 sec)
+Timer: at Thu Jan 18 00:03:35 2024: successes: 16, attemps: 38: prob: 0.421053 time per success: 67.5742 (1081.19 sec)
+Timer: at Thu Jan 18 00:03:45 2024: successes: 16, attemps: 38: prob: 0.421053 time per success: 68.1999 (1091.2 sec)
+Timer: at Thu Jan 18 00:03:55 2024: successes: 16, attemps: 38: prob: 0.421053 time per success: 68.8256 (1101.21 sec)
+Timer: at Thu Jan 18 00:04:05 2024: successes: 16, attemps: 38: prob: 0.421053 time per success: 69.4513 (1111.22 sec)
+SUCCESS: worker 14: starting from conf_index 624 and seed 1705535160
+Timer: at Thu Jan 18 00:04:15 2024: successes: 17, attemps: 39: prob: 0.435897 time per success: 65.9548 (1121.23 sec)
+SUCCESS: worker 12: starting from conf_index 634 and seed 1705535146
+Timer: at Thu Jan 18 00:04:25 2024: successes: 18, attemps: 40: prob: 0.45 time per success: 62.8468 (1131.24 sec)
+Timer: at Thu Jan 18 00:04:35 2024: successes: 18, attemps: 40: prob: 0.45 time per success: 63.4029 (1141.25 sec)
+Timer: at Thu Jan 18 00:04:45 2024: successes: 18, attemps: 40: prob: 0.45 time per success: 63.9591 (1151.26 sec)
+Timer: at Thu Jan 18 00:04:55 2024: successes: 18, attemps: 40: prob: 0.45 time per success: 64.5153 (1161.28 sec)
+Timer: at Thu Jan 18 00:05:05 2024: successes: 18, attemps: 40: prob: 0.45 time per success: 65.0714 (1171.29 sec)
+Timer: at Thu Jan 18 00:05:15 2024: successes: 18, attemps: 40: prob: 0.45 time per success: 65.6276 (1181.3 sec)
+Timer: at Thu Jan 18 00:05:25 2024: successes: 18, attemps: 40: prob: 0.45 time per success: 66.1838 (1191.31 sec)
+FAILURE: worker 14: starting from conf_index 577 and seed 1705535172
+Timer: at Thu Jan 18 00:05:35 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 66.7399 (1201.32 sec)
+Timer: at Thu Jan 18 00:05:45 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 67.2961 (1211.33 sec)
+Timer: at Thu Jan 18 00:05:55 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 67.8523 (1221.34 sec)
+Timer: at Thu Jan 18 00:06:05 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 68.4084 (1231.35 sec)
+Timer: at Thu Jan 18 00:06:15 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 68.9646 (1241.36 sec)
+Timer: at Thu Jan 18 00:06:25 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 69.5208 (1251.37 sec)
+Timer: at Thu Jan 18 00:06:35 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 70.0769 (1261.39 sec)
+Timer: at Thu Jan 18 00:06:45 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 70.6331 (1271.4 sec)
+Timer: at Thu Jan 18 00:06:55 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 71.1893 (1281.41 sec)
+Timer: at Thu Jan 18 00:07:05 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 71.7454 (1291.42 sec)
+Timer: at Thu Jan 18 00:07:15 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 72.3016 (1301.43 sec)
+Timer: at Thu Jan 18 00:07:25 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 72.8578 (1311.44 sec)
+Timer: at Thu Jan 18 00:07:35 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 73.4139 (1321.45 sec)
+Timer: at Thu Jan 18 00:07:45 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 73.9701 (1331.46 sec)
+Timer: at Thu Jan 18 00:07:55 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 74.5263 (1341.47 sec)
+Timer: at Thu Jan 18 00:08:05 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 75.0824 (1351.48 sec)
+Timer: at Thu Jan 18 00:08:15 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 75.6386 (1361.5 sec)
+Timer: at Thu Jan 18 00:08:25 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 76.1948 (1371.51 sec)
+Timer: at Thu Jan 18 00:08:35 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 76.7509 (1381.52 sec)
+Timer: at Thu Jan 18 00:08:45 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 77.3071 (1391.53 sec)
+Timer: at Thu Jan 18 00:08:55 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 77.8633 (1401.54 sec)
+Timer: at Thu Jan 18 00:09:05 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 78.4194 (1411.55 sec)
+Timer: at Thu Jan 18 00:09:15 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 78.9756 (1421.56 sec)
+Timer: at Thu Jan 18 00:09:25 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 79.5318 (1431.57 sec)
+Timer: at Thu Jan 18 00:09:35 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 80.0879 (1441.58 sec)
+Timer: at Thu Jan 18 00:09:45 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 80.6441 (1451.59 sec)
+Timer: at Thu Jan 18 00:09:55 2024: successes: 18, attemps: 41: prob: 0.439024 time per success: 81.2003 (1461.61 sec)
+SUCCESS: worker 4: starting from conf_index 946 and seed 1705535170
+Timer: at Thu Jan 18 00:10:05 2024: successes: 19, attemps: 42: prob: 0.452381 time per success: 77.4535 (1471.62 sec)
+Timer: at Thu Jan 18 00:10:15 2024: successes: 19, attemps: 42: prob: 0.452381 time per success: 77.9804 (1481.63 sec)
+Timer: at Thu Jan 18 00:10:25 2024: successes: 19, attemps: 42: prob: 0.452381 time per success: 78.5073 (1491.64 sec)
+Timer: at Thu Jan 18 00:10:35 2024: successes: 19, attemps: 42: prob: 0.452381 time per success: 79.0342 (1501.65 sec)
+SUCCESS: worker 11: starting from conf_index 117 and seed 1705535163
+Timer: at Thu Jan 18 00:10:45 2024: successes: 20, attemps: 43: prob: 0.465116 time per success: 75.583 (1511.66 sec)
+Timer: at Thu Jan 18 00:10:55 2024: successes: 20, attemps: 43: prob: 0.465116 time per success: 76.0836 (1521.67 sec)
+Timer: at Thu Jan 18 00:11:05 2024: successes: 20, attemps: 43: prob: 0.465116 time per success: 76.5841 (1531.68 sec)
+Timer: at Thu Jan 18 00:11:15 2024: successes: 20, attemps: 43: prob: 0.465116 time per success: 77.0847 (1541.69 sec)
+Timer: at Thu Jan 18 00:11:25 2024: successes: 20, attemps: 43: prob: 0.465116 time per success: 77.5852 (1551.7 sec)
+SUCCESS: worker 0: starting from conf_index 174 and seed 1705535157
+Timer: at Thu Jan 18 00:11:35 2024: successes: 21, attemps: 44: prob: 0.477273 time per success: 74.3674 (1561.72 sec)
+Timer: at Thu Jan 18 00:11:45 2024: successes: 21, attemps: 44: prob: 0.477273 time per success: 74.8441 (1571.73 sec)
+Timer: at Thu Jan 18 00:11:55 2024: successes: 21, attemps: 44: prob: 0.477273 time per success: 75.3208 (1581.74 sec)
+SUCCESS: worker 6: starting from conf_index 217 and seed 1705535161
+Timer: at Thu Jan 18 00:12:05 2024: successes: 22, attemps: 45: prob: 0.488889 time per success: 72.3522 (1591.75 sec)
+Timer: at Thu Jan 18 00:12:15 2024: successes: 22, attemps: 45: prob: 0.488889 time per success: 72.8072 (1601.76 sec)
+Timer: at Thu Jan 18 00:12:25 2024: successes: 22, attemps: 45: prob: 0.488889 time per success: 73.2623 (1611.77 sec)
+SUCCESS: worker 7: starting from conf_index 318 and seed 1705535141
+SUCCESS: worker 9: starting from conf_index 962 and seed 1705535171
+Timer: at Thu Jan 18 00:12:35 2024: successes: 24, attemps: 47: prob: 0.510638 time per success: 67.5742 (1621.78 sec)
+Timer: at Thu Jan 18 00:12:45 2024: successes: 24, attemps: 47: prob: 0.510638 time per success: 67.9913 (1631.79 sec)
+Timer: at Thu Jan 18 00:12:55 2024: successes: 24, attemps: 47: prob: 0.510638 time per success: 68.4085 (1641.8 sec)
+Timer: at Thu Jan 18 00:13:05 2024: successes: 24, attemps: 47: prob: 0.510638 time per success: 68.8256 (1651.81 sec)
+Timer: at Thu Jan 18 00:13:15 2024: successes: 24, attemps: 47: prob: 0.510638 time per success: 69.2427 (1661.83 sec)
+Timer: at Thu Jan 18 00:13:25 2024: successes: 24, attemps: 47: prob: 0.510638 time per success: 69.6598 (1671.84 sec)
+FAILURE: worker 16: starting from conf_index 182 and seed 1705535164
+Timer: at Thu Jan 18 00:13:35 2024: successes: 24, attemps: 48: prob: 0.5 time per success: 70.077 (1681.85 sec)
+Timer: at Thu Jan 18 00:13:45 2024: successes: 24, attemps: 48: prob: 0.5 time per success: 70.4941 (1691.86 sec)
+Timer: at Thu Jan 18 00:13:55 2024: successes: 24, attemps: 48: prob: 0.5 time per success: 70.9112 (1701.87 sec)
+Timer: at Thu Jan 18 00:14:05 2024: successes: 24, attemps: 48: prob: 0.5 time per success: 71.3283 (1711.88 sec)
+SUCCESS: worker 11: starting from conf_index 404 and seed 1705535176
+Timer: at Thu Jan 18 00:14:15 2024: successes: 25, attemps: 49: prob: 0.510204 time per success: 68.8756 (1721.89 sec)
+Timer: at Thu Jan 18 00:14:25 2024: successes: 25, attemps: 49: prob: 0.510204 time per success: 69.2761 (1731.9 sec)
+Timer: at Thu Jan 18 00:14:35 2024: successes: 25, attemps: 49: prob: 0.510204 time per success: 69.6765 (1741.91 sec)
+Timer: at Thu Jan 18 00:14:45 2024: successes: 25, attemps: 49: prob: 0.510204 time per success: 70.077 (1751.92 sec)
+Timer: at Thu Jan 18 00:14:55 2024: successes: 25, attemps: 49: prob: 0.510204 time per success: 70.4774 (1761.94 sec)
+Timer: at Thu Jan 18 00:15:05 2024: successes: 25, attemps: 49: prob: 0.510204 time per success: 70.8778 (1771.95 sec)
+Timer: at Thu Jan 18 00:15:15 2024: successes: 25, attemps: 49: prob: 0.510204 time per success: 71.2783 (1781.96 sec)
+Timer: at Thu Jan 18 00:15:25 2024: successes: 25, attemps: 49: prob: 0.510204 time per success: 71.6787 (1791.97 sec)
+FAILURE: worker 12: starting from conf_index 863 and seed 1705535173
+Timer: at Thu Jan 18 00:15:35 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 72.0792 (1801.98 sec)
+Timer: at Thu Jan 18 00:15:45 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 72.4796 (1811.99 sec)
+Timer: at Thu Jan 18 00:15:55 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 72.88 (1822 sec)
+Timer: at Thu Jan 18 00:16:05 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 73.2805 (1832.01 sec)
+Timer: at Thu Jan 18 00:16:15 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 73.6809 (1842.02 sec)
+Timer: at Thu Jan 18 00:16:25 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 74.0814 (1852.03 sec)
+Timer: at Thu Jan 18 00:16:35 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 74.4818 (1862.05 sec)
+Timer: at Thu Jan 18 00:16:45 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 74.8822 (1872.06 sec)
+Timer: at Thu Jan 18 00:16:55 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 75.2827 (1882.07 sec)
+Timer: at Thu Jan 18 00:17:05 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 75.6831 (1892.08 sec)
+Timer: at Thu Jan 18 00:17:15 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 76.0836 (1902.09 sec)
+Timer: at Thu Jan 18 00:17:25 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 76.484 (1912.1 sec)
+Timer: at Thu Jan 18 00:17:35 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 76.8844 (1922.11 sec)
+Timer: at Thu Jan 18 00:17:45 2024: successes: 25, attemps: 50: prob: 0.5 time per success: 77.2849 (1932.12 sec)
+FAILURE: worker 0: starting from conf_index 786 and seed 1705535177
+Timer: at Thu Jan 18 00:17:55 2024: successes: 25, attemps: 51: prob: 0.490196 time per success: 77.6853 (1942.13 sec)
+SUCCESS: worker 16: starting from conf_index 862 and seed 1705535181
+Timer: at Thu Jan 18 00:18:05 2024: successes: 26, attemps: 52: prob: 0.5 time per success: 75.0825 (1952.14 sec)
+Timer: at Thu Jan 18 00:18:15 2024: successes: 26, attemps: 52: prob: 0.5 time per success: 75.4675 (1962.16 sec)
+SUCCESS: worker 13: starting from conf_index 792 and seed 1705535148
+Timer: at Thu Jan 18 00:18:26 2024: successes: 27, attemps: 53: prob: 0.509434 time per success: 73.0432 (1972.17 sec)
+Timer: at Thu Jan 18 00:18:36 2024: successes: 27, attemps: 53: prob: 0.509434 time per success: 73.414 (1982.18 sec)
+Timer: at Thu Jan 18 00:18:46 2024: successes: 27, attemps: 53: prob: 0.509434 time per success: 73.7847 (1992.19 sec)
+SUCCESS: worker 7: starting from conf_index 1008 and seed 1705535179
+Timer: at Thu Jan 18 00:18:56 2024: successes: 28, attemps: 54: prob: 0.518519 time per success: 71.5071 (2002.2 sec)
+Timer: at Thu Jan 18 00:19:06 2024: successes: 28, attemps: 54: prob: 0.518519 time per success: 71.8646 (2012.21 sec)
+SUCCESS: worker 5: starting from conf_index 310 and seed 1705535158
+Timer: at Thu Jan 18 00:19:16 2024: successes: 29, attemps: 55: prob: 0.527273 time per success: 69.7318 (2022.22 sec)
+Timer: at Thu Jan 18 00:19:26 2024: successes: 29, attemps: 55: prob: 0.527273 time per success: 70.077 (2032.23 sec)
+FAILURE: worker 7: starting from conf_index 683 and seed 1705535187
+Timer: at Thu Jan 18 00:19:36 2024: successes: 29, attemps: 56: prob: 0.517857 time per success: 70.4222 (2042.24 sec)
+Timer: at Thu Jan 18 00:19:46 2024: successes: 29, attemps: 56: prob: 0.517857 time per success: 70.7674 (2052.25 sec)
+Timer: at Thu Jan 18 00:19:56 2024: successes: 29, attemps: 56: prob: 0.517857 time per success: 71.1126 (2062.27 sec)
+SUCCESS: worker 14: starting from conf_index 929 and seed 1705535174
+Timer: at Thu Jan 18 00:20:06 2024: successes: 30, attemps: 57: prob: 0.526316 time per success: 69.0759 (2072.28 sec)
+Timer: at Thu Jan 18 00:20:16 2024: successes: 30, attemps: 57: prob: 0.526316 time per success: 69.4096 (2082.29 sec)
+Timer: at Thu Jan 18 00:20:26 2024: successes: 30, attemps: 57: prob: 0.526316 time per success: 69.7433 (2092.3 sec)
+Timer: at Thu Jan 18 00:20:36 2024: successes: 30, attemps: 57: prob: 0.526316 time per success: 70.077 (2102.31 sec)
+Timer: at Thu Jan 18 00:20:46 2024: successes: 30, attemps: 57: prob: 0.526316 time per success: 70.4107 (2112.32 sec)
+SUCCESS: worker 8: starting from conf_index 723 and seed 1705535142
+Timer: at Thu Jan 18 00:20:56 2024: successes: 31, attemps: 58: prob: 0.534483 time per success: 68.4623 (2122.33 sec)
+Timer: at Thu Jan 18 00:21:06 2024: successes: 31, attemps: 58: prob: 0.534483 time per success: 68.7852 (2132.34 sec)
+Timer: at Thu Jan 18 00:21:16 2024: successes: 31, attemps: 58: prob: 0.534483 time per success: 69.1082 (2142.35 sec)
+SUCCESS: worker 18: starting from conf_index 405 and seed 1705535165
+Timer: at Thu Jan 18 00:21:26 2024: successes: 32, attemps: 59: prob: 0.542373 time per success: 67.2614 (2152.36 sec)
+Timer: at Thu Jan 18 00:21:36 2024: successes: 32, attemps: 59: prob: 0.542373 time per success: 67.5742 (2162.38 sec)
+Timer: at Thu Jan 18 00:21:46 2024: successes: 32, attemps: 59: prob: 0.542373 time per success: 67.8871 (2172.39 sec)
+SUCCESS: worker 6: starting from conf_index 520 and seed 1705535178
+Timer: at Thu Jan 18 00:21:56 2024: successes: 33, attemps: 60: prob: 0.55 time per success: 66.1332 (2182.4 sec)
+Timer: at Thu Jan 18 00:22:06 2024: successes: 33, attemps: 60: prob: 0.55 time per success: 66.4366 (2192.41 sec)
+Timer: at Thu Jan 18 00:22:16 2024: successes: 33, attemps: 60: prob: 0.55 time per success: 66.74 (2202.42 sec)
+Timer: at Thu Jan 18 00:22:26 2024: successes: 33, attemps: 60: prob: 0.55 time per success: 67.0433 (2212.43 sec)
+Timer: at Thu Jan 18 00:22:36 2024: successes: 33, attemps: 60: prob: 0.55 time per success: 67.3467 (2222.44 sec)
+Timer: at Thu Jan 18 00:22:46 2024: successes: 33, attemps: 60: prob: 0.55 time per success: 67.6501 (2232.45 sec)
+SUCCESS: worker 10: starting from conf_index 427 and seed 1705535144
+Timer: at Thu Jan 18 00:22:56 2024: successes: 34, attemps: 61: prob: 0.557377 time per success: 65.9548 (2242.46 sec)
+Timer: at Thu Jan 18 00:23:06 2024: successes: 34, attemps: 61: prob: 0.557377 time per success: 66.2492 (2252.47 sec)
+Timer: at Thu Jan 18 00:23:16 2024: successes: 34, attemps: 61: prob: 0.557377 time per success: 66.5437 (2262.49 sec)
+Timer: at Thu Jan 18 00:23:26 2024: successes: 34, attemps: 61: prob: 0.557377 time per success: 66.8381 (2272.5 sec)
+Timer: at Thu Jan 18 00:23:36 2024: successes: 34, attemps: 61: prob: 0.557377 time per success: 67.1326 (2282.51 sec)
+Timer: at Thu Jan 18 00:23:46 2024: successes: 34, attemps: 61: prob: 0.557377 time per success: 67.427 (2292.52 sec)
+Timer: at Thu Jan 18 00:23:56 2024: successes: 34, attemps: 61: prob: 0.557377 time per success: 67.7214 (2302.53 sec)
+Timer: at Thu Jan 18 00:24:06 2024: successes: 34, attemps: 61: prob: 0.557377 time per success: 68.0159 (2312.54 sec)
+Timer: at Thu Jan 18 00:24:16 2024: successes: 34, attemps: 61: prob: 0.557377 time per success: 68.3103 (2322.55 sec)
+Timer: at Thu Jan 18 00:24:26 2024: successes: 34, attemps: 61: prob: 0.557377 time per success: 68.6048 (2332.56 sec)
+SUCCESS: worker 13: starting from conf_index 827 and seed 1705535186
+Timer: at Thu Jan 18 00:24:36 2024: successes: 35, attemps: 62: prob: 0.564516 time per success: 66.9307 (2342.57 sec)
+SUCCESS: worker 13: starting from conf_index 354 and seed 1705535195
+SUCCESS: worker 17: starting from conf_index 668 and seed 1705535162
+Timer: at Thu Jan 18 00:24:46 2024: successes: 37, attemps: 64: prob: 0.578125 time per success: 63.5834 (2352.58 sec)
+Timer: at Thu Jan 18 00:24:56 2024: successes: 37, attemps: 64: prob: 0.578125 time per success: 63.8539 (2362.6 sec)
+Timer: at Thu Jan 18 00:25:06 2024: successes: 37, attemps: 64: prob: 0.578125 time per success: 64.1245 (2372.61 sec)
+FAILURE: worker 7: starting from conf_index 802 and seed 1705535189
+SUCCESS: worker 5: starting from conf_index 612 and seed 1705535188
+Timer: at Thu Jan 18 00:25:16 2024: successes: 38, attemps: 66: prob: 0.575758 time per success: 62.7004 (2382.62 sec)
+Timer: at Thu Jan 18 00:25:26 2024: successes: 38, attemps: 66: prob: 0.575758 time per success: 62.9639 (2392.63 sec)
+Timer: at Thu Jan 18 00:25:36 2024: successes: 38, attemps: 66: prob: 0.575758 time per success: 63.2273 (2402.64 sec)
+Timer: at Thu Jan 18 00:25:46 2024: successes: 38, attemps: 66: prob: 0.575758 time per success: 63.4908 (2412.65 sec)
+Timer: at Thu Jan 18 00:25:56 2024: successes: 38, attemps: 66: prob: 0.575758 time per success: 63.7542 (2422.66 sec)
+Timer: at Thu Jan 18 00:26:06 2024: successes: 38, attemps: 66: prob: 0.575758 time per success: 64.0177 (2432.67 sec)
+Timer: at Thu Jan 18 00:26:16 2024: successes: 38, attemps: 66: prob: 0.575758 time per success: 64.2811 (2442.68 sec)
+Timer: at Thu Jan 18 00:26:26 2024: successes: 38, attemps: 66: prob: 0.575758 time per success: 64.5446 (2452.69 sec)
+FAILURE: worker 16: starting from conf_index 1000 and seed 1705535185
+Timer: at Thu Jan 18 00:26:36 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 64.808 (2462.71 sec)
+Timer: at Thu Jan 18 00:26:46 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 65.0715 (2472.72 sec)
+Timer: at Thu Jan 18 00:26:56 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 65.3349 (2482.73 sec)
+Timer: at Thu Jan 18 00:27:06 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 65.5984 (2492.74 sec)
+Timer: at Thu Jan 18 00:27:16 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 65.8618 (2502.75 sec)
+Timer: at Thu Jan 18 00:27:26 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 66.1253 (2512.76 sec)
+Timer: at Thu Jan 18 00:27:36 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 66.3887 (2522.77 sec)
+Timer: at Thu Jan 18 00:27:46 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 66.6522 (2532.78 sec)
+Timer: at Thu Jan 18 00:27:56 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 66.9156 (2542.79 sec)
+Timer: at Thu Jan 18 00:28:06 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 67.1791 (2552.8 sec)
+Timer: at Thu Jan 18 00:28:16 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 67.4425 (2562.82 sec)
+Timer: at Thu Jan 18 00:28:26 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 67.7059 (2572.83 sec)
+Timer: at Thu Jan 18 00:28:36 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 67.9694 (2582.84 sec)
+Timer: at Thu Jan 18 00:28:46 2024: successes: 38, attemps: 67: prob: 0.567164 time per success: 68.2328 (2592.85 sec)
+FAILURE: worker 8: starting from conf_index 219 and seed 1705535191
+Timer: at Thu Jan 18 00:28:56 2024: successes: 38, attemps: 68: prob: 0.558824 time per success: 68.4963 (2602.86 sec)
+Timer: at Thu Jan 18 00:29:06 2024: successes: 38, attemps: 68: prob: 0.558824 time per success: 68.7597 (2612.87 sec)
+Timer: at Thu Jan 18 00:29:16 2024: successes: 38, attemps: 68: prob: 0.558824 time per success: 69.0232 (2622.88 sec)
+Timer: at Thu Jan 18 00:29:26 2024: successes: 38, attemps: 68: prob: 0.558824 time per success: 69.2866 (2632.89 sec)
+Timer: at Thu Jan 18 00:29:36 2024: successes: 38, attemps: 68: prob: 0.558824 time per success: 69.5501 (2642.9 sec)
+Timer: at Thu Jan 18 00:29:46 2024: successes: 38, attemps: 68: prob: 0.558824 time per success: 69.8135 (2652.91 sec)
+Timer: at Thu Jan 18 00:29:56 2024: successes: 38, attemps: 68: prob: 0.558824 time per success: 70.077 (2662.93 sec)
+SUCCESS: worker 0: starting from conf_index 936 and seed 1705535184
+Timer: at Thu Jan 18 00:30:06 2024: successes: 39, attemps: 69: prob: 0.565217 time per success: 68.5368 (2672.94 sec)
+FAILURE: worker 8: starting from conf_index 957 and seed 1705535201
+Timer: at Thu Jan 18 00:30:16 2024: successes: 39, attemps: 70: prob: 0.557143 time per success: 68.7935 (2682.95 sec)
+Timer: at Thu Jan 18 00:30:26 2024: successes: 39, attemps: 70: prob: 0.557143 time per success: 69.0502 (2692.96 sec)
+Timer: at Thu Jan 18 00:30:36 2024: successes: 39, attemps: 70: prob: 0.557143 time per success: 69.3069 (2702.97 sec)
+Timer: at Thu Jan 18 00:30:46 2024: successes: 39, attemps: 70: prob: 0.557143 time per success: 69.5636 (2712.98 sec)
+Timer: at Thu Jan 18 00:30:56 2024: successes: 39, attemps: 70: prob: 0.557143 time per success: 69.8203 (2722.99 sec)
+Timer: at Thu Jan 18 00:31:06 2024: successes: 39, attemps: 70: prob: 0.557143 time per success: 70.077 (2733 sec)
+Timer: at Thu Jan 18 00:31:16 2024: successes: 39, attemps: 70: prob: 0.557143 time per success: 70.3337 (2743.01 sec)
+Timer: at Thu Jan 18 00:31:26 2024: successes: 39, attemps: 70: prob: 0.557143 time per success: 70.5904 (2753.02 sec)
+Timer: at Thu Jan 18 00:31:36 2024: successes: 39, attemps: 70: prob: 0.557143 time per success: 70.8471 (2763.04 sec)
+Timer: at Thu Jan 18 00:31:46 2024: successes: 39, attemps: 70: prob: 0.557143 time per success: 71.1037 (2773.05 sec)
+Timer: at Thu Jan 18 00:31:56 2024: successes: 39, attemps: 70: prob: 0.557143 time per success: 71.3604 (2783.06 sec)
+Timer: at Thu Jan 18 00:32:06 2024: successes: 39, attemps: 70: prob: 0.557143 time per success: 71.6171 (2793.07 sec)
+FAILURE: worker 3: starting from conf_index 262 and seed 1705535137
+Timer: at Thu Jan 18 00:32:16 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 71.8738 (2803.08 sec)
+Timer: at Thu Jan 18 00:32:26 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 72.1305 (2813.09 sec)
+Timer: at Thu Jan 18 00:32:36 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 72.3872 (2823.1 sec)
+Timer: at Thu Jan 18 00:32:46 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 72.6439 (2833.11 sec)
+Timer: at Thu Jan 18 00:32:56 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 72.9006 (2843.12 sec)
+Timer: at Thu Jan 18 00:33:06 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 73.1573 (2853.13 sec)
+Timer: at Thu Jan 18 00:33:16 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 73.414 (2863.15 sec)
+Timer: at Thu Jan 18 00:33:26 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 73.6707 (2873.16 sec)
+Timer: at Thu Jan 18 00:33:37 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 73.9274 (2883.17 sec)
+Timer: at Thu Jan 18 00:33:47 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 74.1841 (2893.18 sec)
+Timer: at Thu Jan 18 00:33:57 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 74.4407 (2903.19 sec)
+Timer: at Thu Jan 18 00:34:07 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 74.6974 (2913.2 sec)
+Timer: at Thu Jan 18 00:34:17 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 74.9541 (2923.21 sec)
+Timer: at Thu Jan 18 00:34:27 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 75.2108 (2933.22 sec)
+Timer: at Thu Jan 18 00:34:37 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 75.4675 (2943.23 sec)
+Timer: at Thu Jan 18 00:34:47 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 75.7242 (2953.24 sec)
+Timer: at Thu Jan 18 00:34:57 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 75.9809 (2963.26 sec)
+Timer: at Thu Jan 18 00:35:07 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 76.2376 (2973.27 sec)
+Timer: at Thu Jan 18 00:35:17 2024: successes: 39, attemps: 71: prob: 0.549296 time per success: 76.4943 (2983.28 sec)
+FAILURE: worker 18: starting from conf_index 872 and seed 1705535192
+Timer: at Thu Jan 18 00:35:27 2024: successes: 39, attemps: 72: prob: 0.541667 time per success: 76.751 (2993.29 sec)
+Timer: at Thu Jan 18 00:35:37 2024: successes: 39, attemps: 72: prob: 0.541667 time per success: 77.0077 (3003.3 sec)
+Timer: at Thu Jan 18 00:35:47 2024: successes: 39, attemps: 72: prob: 0.541667 time per success: 77.2644 (3013.31 sec)
+Timer: at Thu Jan 18 00:35:57 2024: successes: 39, attemps: 72: prob: 0.541667 time per success: 77.5211 (3023.32 sec)
+Timer: at Thu Jan 18 00:36:07 2024: successes: 39, attemps: 72: prob: 0.541667 time per success: 77.7777 (3033.33 sec)
+Timer: at Thu Jan 18 00:36:17 2024: successes: 39, attemps: 72: prob: 0.541667 time per success: 78.0344 (3043.34 sec)
+Timer: at Thu Jan 18 00:36:27 2024: successes: 39, attemps: 72: prob: 0.541667 time per success: 78.2911 (3053.35 sec)
+SUCCESS: worker 5: starting from conf_index 176 and seed 1705535199
+Timer: at Thu Jan 18 00:36:37 2024: successes: 40, attemps: 73: prob: 0.547945 time per success: 76.5841 (3063.37 sec)
+Timer: at Thu Jan 18 00:36:47 2024: successes: 40, attemps: 73: prob: 0.547945 time per success: 76.8344 (3073.38 sec)
+Timer: at Thu Jan 18 00:36:57 2024: successes: 40, attemps: 73: prob: 0.547945 time per success: 77.0847 (3083.39 sec)
+Timer: at Thu Jan 18 00:37:07 2024: successes: 40, attemps: 73: prob: 0.547945 time per success: 77.335 (3093.4 sec)
+Timer: at Thu Jan 18 00:37:17 2024: successes: 40, attemps: 73: prob: 0.547945 time per success: 77.5852 (3103.41 sec)
+Timer: at Thu Jan 18 00:37:27 2024: successes: 40, attemps: 73: prob: 0.547945 time per success: 77.8355 (3113.42 sec)
+SUCCESS: worker 17: starting from conf_index 111 and seed 1705535197
+Timer: at Thu Jan 18 00:37:37 2024: successes: 41, attemps: 74: prob: 0.554054 time per success: 76.1812 (3123.43 sec)
+Timer: at Thu Jan 18 00:37:47 2024: successes: 41, attemps: 74: prob: 0.554054 time per success: 76.4254 (3133.44 sec)
+Timer: at Thu Jan 18 00:37:57 2024: successes: 41, attemps: 74: prob: 0.554054 time per success: 76.6696 (3143.45 sec)
+Timer: at Thu Jan 18 00:38:07 2024: successes: 41, attemps: 74: prob: 0.554054 time per success: 76.9138 (3153.46 sec)
+SUCCESS: worker 4: starting from conf_index 52 and seed 1705535175
+Timer: at Thu Jan 18 00:38:17 2024: successes: 42, attemps: 75: prob: 0.56 time per success: 75.3208 (3163.48 sec)
+Timer: at Thu Jan 18 00:38:27 2024: successes: 42, attemps: 75: prob: 0.56 time per success: 75.5592 (3173.49 sec)
+Timer: at Thu Jan 18 00:38:37 2024: successes: 42, attemps: 75: prob: 0.56 time per success: 75.7976 (3183.5 sec)
+SUCCESS: worker 4: starting from conf_index 816 and seed 1705535208
+Timer: at Thu Jan 18 00:38:47 2024: successes: 43, attemps: 76: prob: 0.565789 time per success: 74.2676 (3193.51 sec)
+SUCCESS: worker 10: starting from conf_index 99 and seed 1705535194
+Timer: at Thu Jan 18 00:38:57 2024: successes: 44, attemps: 77: prob: 0.571429 time per success: 72.8073 (3203.52 sec)
+SUCCESS: worker 14: starting from conf_index 721 and seed 1705535190
+Timer: at Thu Jan 18 00:39:07 2024: successes: 45, attemps: 78: prob: 0.576923 time per success: 71.4118 (3213.53 sec)
+SUCCESS: worker 17: starting from conf_index 913 and seed 1705535207
+Timer: at Thu Jan 18 00:39:17 2024: successes: 46, attemps: 79: prob: 0.582278 time per success: 70.077 (3223.54 sec)
+FAILURE: worker 18: starting from conf_index 481 and seed 1705535205
+Timer: at Thu Jan 18 00:39:27 2024: successes: 46, attemps: 80: prob: 0.575 time per success: 70.2946 (3233.55 sec)
+Timer: at Thu Jan 18 00:39:37 2024: successes: 46, attemps: 80: prob: 0.575 time per success: 70.5122 (3243.56 sec)
+Timer: at Thu Jan 18 00:39:47 2024: successes: 46, attemps: 80: prob: 0.575 time per success: 70.7299 (3253.57 sec)
+SUCCESS: worker 15: starting from conf_index 224 and seed 1705535149
+Timer: at Thu Jan 18 00:39:57 2024: successes: 47, attemps: 81: prob: 0.580247 time per success: 69.438 (3263.59 sec)
+Timer: at Thu Jan 18 00:40:07 2024: successes: 47, attemps: 81: prob: 0.580247 time per success: 69.651 (3273.6 sec)
+SUCCESS: worker 5: starting from conf_index 765 and seed 1705535206
+Timer: at Thu Jan 18 00:40:17 2024: successes: 48, attemps: 82: prob: 0.585366 time per success: 68.4085 (3283.61 sec)
+Timer: at Thu Jan 18 00:40:27 2024: successes: 48, attemps: 82: prob: 0.585366 time per success: 68.617 (3293.62 sec)
+Timer: at Thu Jan 18 00:40:37 2024: successes: 48, attemps: 82: prob: 0.585366 time per success: 68.8256 (3303.63 sec)
+Timer: at Thu Jan 18 00:40:47 2024: successes: 48, attemps: 82: prob: 0.585366 time per success: 69.0342 (3313.64 sec)
+Timer: at Thu Jan 18 00:40:57 2024: successes: 48, attemps: 82: prob: 0.585366 time per success: 69.2427 (3323.65 sec)
+Timer: at Thu Jan 18 00:41:07 2024: successes: 48, attemps: 82: prob: 0.585366 time per success: 69.4513 (3333.66 sec)
+SUCCESS: worker 6: starting from conf_index 475 and seed 1705535193
+Timer: at Thu Jan 18 00:41:17 2024: successes: 49, attemps: 83: prob: 0.590361 time per success: 68.2382 (3343.67 sec)
+Timer: at Thu Jan 18 00:41:27 2024: successes: 49, attemps: 83: prob: 0.590361 time per success: 68.4425 (3353.68 sec)
+Timer: at Thu Jan 18 00:41:37 2024: successes: 49, attemps: 83: prob: 0.590361 time per success: 68.6468 (3363.7 sec)
+Timer: at Thu Jan 18 00:41:47 2024: successes: 49, attemps: 83: prob: 0.590361 time per success: 68.8511 (3373.71 sec)
+FAILURE: worker 2: starting from conf_index 549 and seed 1705535169
+Timer: at Thu Jan 18 00:41:57 2024: successes: 49, attemps: 84: prob: 0.583333 time per success: 69.0555 (3383.72 sec)
+SUCCESS: worker 4: starting from conf_index 294 and seed 1705535209
+Timer: at Thu Jan 18 00:42:07 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 67.8746 (3393.73 sec)
+Timer: at Thu Jan 18 00:42:17 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 68.0748 (3403.74 sec)
+Timer: at Thu Jan 18 00:42:27 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 68.275 (3413.75 sec)
+Timer: at Thu Jan 18 00:42:37 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 68.4752 (3423.76 sec)
+Timer: at Thu Jan 18 00:42:47 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 68.6754 (3433.77 sec)
+Timer: at Thu Jan 18 00:42:57 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 68.8757 (3443.78 sec)
+Timer: at Thu Jan 18 00:43:07 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 69.0759 (3453.79 sec)
+Timer: at Thu Jan 18 00:43:17 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 69.2761 (3463.81 sec)
+Timer: at Thu Jan 18 00:43:27 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 69.4763 (3473.82 sec)
+Timer: at Thu Jan 18 00:43:37 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 69.6765 (3483.83 sec)
+Timer: at Thu Jan 18 00:43:47 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 69.8768 (3493.84 sec)
+Timer: at Thu Jan 18 00:43:57 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 70.077 (3503.85 sec)
+Timer: at Thu Jan 18 00:44:07 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 70.2772 (3513.86 sec)
+Timer: at Thu Jan 18 00:44:17 2024: successes: 50, attemps: 85: prob: 0.588235 time per success: 70.4774 (3523.87 sec)
+FAILURE: worker 14: starting from conf_index 411 and seed 1705535211
+Timer: at Thu Jan 18 00:44:27 2024: successes: 50, attemps: 86: prob: 0.581395 time per success: 70.6776 (3533.88 sec)
+Timer: at Thu Jan 18 00:44:37 2024: successes: 50, attemps: 86: prob: 0.581395 time per success: 70.8779 (3543.89 sec)
+Timer: at Thu Jan 18 00:44:47 2024: successes: 50, attemps: 86: prob: 0.581395 time per success: 71.0781 (3553.9 sec)
+Timer: at Thu Jan 18 00:44:57 2024: successes: 50, attemps: 86: prob: 0.581395 time per success: 71.2783 (3563.92 sec)
+Timer: at Thu Jan 18 00:45:07 2024: successes: 50, attemps: 86: prob: 0.581395 time per success: 71.4785 (3573.93 sec)
+Timer: at Thu Jan 18 00:45:17 2024: successes: 50, attemps: 86: prob: 0.581395 time per success: 71.6787 (3583.94 sec)
+Timer: at Thu Jan 18 00:45:27 2024: successes: 50, attemps: 86: prob: 0.581395 time per success: 71.879 (3593.95 sec)
+Timer: at Thu Jan 18 00:45:37 2024: successes: 50, attemps: 86: prob: 0.581395 time per success: 72.0792 (3603.96 sec)
+Timer: at Thu Jan 18 00:45:47 2024: successes: 50, attemps: 86: prob: 0.581395 time per success: 72.2794 (3613.97 sec)
+Timer: at Thu Jan 18 00:45:57 2024: successes: 50, attemps: 86: prob: 0.581395 time per success: 72.4796 (3623.98 sec)
+Timer: at Thu Jan 18 00:46:07 2024: successes: 50, attemps: 86: prob: 0.581395 time per success: 72.6798 (3633.99 sec)
+SUCCESS: worker 8: starting from conf_index 121 and seed 1705535203
+Timer: at Thu Jan 18 00:46:17 2024: successes: 51, attemps: 87: prob: 0.586207 time per success: 71.451 (3644 sec)
+Timer: at Thu Jan 18 00:46:27 2024: successes: 51, attemps: 87: prob: 0.586207 time per success: 71.6473 (3654.01 sec)
+Timer: at Thu Jan 18 00:46:37 2024: successes: 51, attemps: 87: prob: 0.586207 time per success: 71.8436 (3664.03 sec)
+SUCCESS: worker 8: starting from conf_index 778 and seed 1705535220
+Timer: at Thu Jan 18 00:46:47 2024: successes: 52, attemps: 88: prob: 0.590909 time per success: 70.6545 (3674.04 sec)
+Timer: at Thu Jan 18 00:46:57 2024: successes: 52, attemps: 88: prob: 0.590909 time per success: 70.8471 (3684.05 sec)
+Timer: at Thu Jan 18 00:47:07 2024: successes: 52, attemps: 88: prob: 0.590909 time per success: 71.0396 (3694.06 sec)
+Timer: at Thu Jan 18 00:47:17 2024: successes: 52, attemps: 88: prob: 0.590909 time per success: 71.2321 (3704.07 sec)
+Timer: at Thu Jan 18 00:47:27 2024: successes: 52, attemps: 88: prob: 0.590909 time per success: 71.4246 (3714.08 sec)
+Timer: at Thu Jan 18 00:47:37 2024: successes: 52, attemps: 88: prob: 0.590909 time per success: 71.6171 (3724.09 sec)
+Timer: at Thu Jan 18 00:47:47 2024: successes: 52, attemps: 88: prob: 0.590909 time per success: 71.8097 (3734.1 sec)
+Timer: at Thu Jan 18 00:47:57 2024: successes: 52, attemps: 88: prob: 0.590909 time per success: 72.0022 (3744.11 sec)
+Timer: at Thu Jan 18 00:48:07 2024: successes: 52, attemps: 88: prob: 0.590909 time per success: 72.1947 (3754.12 sec)
+Timer: at Thu Jan 18 00:48:17 2024: successes: 52, attemps: 88: prob: 0.590909 time per success: 72.3872 (3764.14 sec)
+SUCCESS: worker 13: starting from conf_index 167 and seed 1705535196
+Timer: at Thu Jan 18 00:48:27 2024: successes: 53, attemps: 89: prob: 0.595506 time per success: 71.2103 (3774.15 sec)
+Timer: at Thu Jan 18 00:48:38 2024: successes: 53, attemps: 89: prob: 0.595506 time per success: 71.3992 (3784.16 sec)
+Timer: at Thu Jan 18 00:48:48 2024: successes: 53, attemps: 89: prob: 0.595506 time per success: 71.5881 (3794.17 sec)
+Timer: at Thu Jan 18 00:48:58 2024: successes: 53, attemps: 89: prob: 0.595506 time per success: 71.777 (3804.18 sec)
+SUCCESS: worker 3: starting from conf_index 925 and seed 1705535204
+Timer: at Thu Jan 18 00:49:08 2024: successes: 54, attemps: 90: prob: 0.6 time per success: 70.6331 (3814.19 sec)
+Timer: at Thu Jan 18 00:49:18 2024: successes: 54, attemps: 90: prob: 0.6 time per success: 70.8185 (3824.2 sec)
+Timer: at Thu Jan 18 00:49:28 2024: successes: 54, attemps: 90: prob: 0.6 time per success: 71.0039 (3834.21 sec)
+Timer: at Thu Jan 18 00:49:38 2024: successes: 54, attemps: 90: prob: 0.6 time per success: 71.1893 (3844.22 sec)
+SUCCESS: worker 9: starting from conf_index 981 and seed 1705535180
+Timer: at Thu Jan 18 00:49:48 2024: successes: 55, attemps: 91: prob: 0.604396 time per success: 70.077 (3854.23 sec)
+Timer: at Thu Jan 18 00:49:58 2024: successes: 55, attemps: 91: prob: 0.604396 time per success: 70.259 (3864.25 sec)
+Timer: at Thu Jan 18 00:50:08 2024: successes: 55, attemps: 91: prob: 0.604396 time per success: 70.441 (3874.26 sec)
+Timer: at Thu Jan 18 00:50:18 2024: successes: 55, attemps: 91: prob: 0.604396 time per success: 70.623 (3884.27 sec)
+Timer: at Thu Jan 18 00:50:28 2024: successes: 55, attemps: 91: prob: 0.604396 time per success: 70.8051 (3894.28 sec)
+SUCCESS: worker 13: starting from conf_index 232 and seed 1705535222
+Timer: at Thu Jan 18 00:50:38 2024: successes: 56, attemps: 92: prob: 0.608696 time per success: 69.7194 (3904.29 sec)
+Timer: at Thu Jan 18 00:50:48 2024: successes: 56, attemps: 92: prob: 0.608696 time per success: 69.8982 (3914.3 sec)
+SUCCESS: worker 13: starting from conf_index 845 and seed 1705535225
+Timer: at Thu Jan 18 00:50:58 2024: successes: 57, attemps: 93: prob: 0.612903 time per success: 68.8476 (3924.31 sec)
+SUCCESS: worker 13: starting from conf_index 113 and seed 1705535226
+Timer: at Thu Jan 18 00:51:08 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 67.8331 (3934.32 sec)
+Timer: at Thu Jan 18 00:51:18 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 68.0057 (3944.33 sec)
+Timer: at Thu Jan 18 00:51:28 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 68.1783 (3954.34 sec)
+Timer: at Thu Jan 18 00:51:38 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 68.3509 (3964.36 sec)
+Timer: at Thu Jan 18 00:51:48 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 68.5236 (3974.37 sec)
+Timer: at Thu Jan 18 00:51:58 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 68.6962 (3984.38 sec)
+Timer: at Thu Jan 18 00:52:08 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 68.8688 (3994.39 sec)
+Timer: at Thu Jan 18 00:52:18 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 69.0415 (4004.41 sec)
+Timer: at Thu Jan 18 00:52:28 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 69.2141 (4014.42 sec)
+Timer: at Thu Jan 18 00:52:38 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 69.3867 (4024.43 sec)
+Timer: at Thu Jan 18 00:52:48 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 69.5593 (4034.44 sec)
+Timer: at Thu Jan 18 00:52:58 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 69.7319 (4044.45 sec)
+Timer: at Thu Jan 18 00:53:08 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 69.9045 (4054.46 sec)
+Timer: at Thu Jan 18 00:53:18 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 70.0771 (4064.47 sec)
+Timer: at Thu Jan 18 00:53:28 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 70.2497 (4074.49 sec)
+Timer: at Thu Jan 18 00:53:38 2024: successes: 58, attemps: 94: prob: 0.617021 time per success: 70.4223 (4084.5 sec)
+SUCCESS: worker 13: starting from conf_index 205 and seed 1705535227
+Timer: at Thu Jan 18 00:53:48 2024: successes: 59, attemps: 95: prob: 0.621053 time per success: 69.3984 (4094.51 sec)
+Timer: at Thu Jan 18 00:53:58 2024: successes: 59, attemps: 95: prob: 0.621053 time per success: 69.5681 (4104.52 sec)
+Timer: at Thu Jan 18 00:54:08 2024: successes: 59, attemps: 95: prob: 0.621053 time per success: 69.7378 (4114.53 sec)
+Timer: at Thu Jan 18 00:54:18 2024: successes: 59, attemps: 95: prob: 0.621053 time per success: 69.9075 (4124.54 sec)
+SUCCESS: worker 7: starting from conf_index 593 and seed 1705535198
+Timer: at Thu Jan 18 00:54:28 2024: successes: 60, attemps: 96: prob: 0.625 time per success: 68.9092 (4134.55 sec)
+Timer: at Thu Jan 18 00:54:38 2024: successes: 60, attemps: 96: prob: 0.625 time per success: 69.076 (4144.56 sec)
+Timer: at Thu Jan 18 00:54:48 2024: successes: 60, attemps: 96: prob: 0.625 time per success: 69.2429 (4154.57 sec)
+Timer: at Thu Jan 18 00:54:58 2024: successes: 60, attemps: 96: prob: 0.625 time per success: 69.4097 (4164.58 sec)
+Timer: at Thu Jan 18 00:55:08 2024: successes: 60, attemps: 96: prob: 0.625 time per success: 69.5766 (4174.6 sec)
+Timer: at Thu Jan 18 00:55:18 2024: successes: 60, attemps: 96: prob: 0.625 time per success: 69.7434 (4184.61 sec)
+Timer: at Thu Jan 18 00:55:28 2024: successes: 60, attemps: 96: prob: 0.625 time per success: 69.9103 (4194.62 sec)
+Timer: at Thu Jan 18 00:55:38 2024: successes: 60, attemps: 96: prob: 0.625 time per success: 70.0771 (4204.63 sec)
+Timer: at Thu Jan 18 00:55:48 2024: successes: 60, attemps: 96: prob: 0.625 time per success: 70.244 (4214.64 sec)
+SUCCESS: worker 6: starting from conf_index 206 and seed 1705535216
+FAILURE: worker 4: starting from conf_index 936 and seed 1705535218
+Timer: at Thu Jan 18 00:55:58 2024: successes: 61, attemps: 98: prob: 0.622449 time per success: 69.2566 (4224.65 sec)
+Timer: at Thu Jan 18 00:56:08 2024: successes: 61, attemps: 98: prob: 0.622449 time per success: 69.4207 (4234.66 sec)
+Timer: at Thu Jan 18 00:56:18 2024: successes: 61, attemps: 98: prob: 0.622449 time per success: 69.5848 (4244.67 sec)
+Timer: at Thu Jan 18 00:56:28 2024: successes: 61, attemps: 98: prob: 0.622449 time per success: 69.7489 (4254.68 sec)
+SUCCESS: worker 16: starting from conf_index 850 and seed 1705535200
+Timer: at Thu Jan 18 00:56:38 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 68.7854 (4264.69 sec)
+Timer: at Thu Jan 18 00:56:48 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 68.9469 (4274.71 sec)
+Timer: at Thu Jan 18 00:56:58 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 69.1083 (4284.72 sec)
+Timer: at Thu Jan 18 00:57:08 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 69.2698 (4294.73 sec)
+Timer: at Thu Jan 18 00:57:18 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 69.4313 (4304.74 sec)
+Timer: at Thu Jan 18 00:57:28 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 69.5927 (4314.75 sec)
+Timer: at Thu Jan 18 00:57:38 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 69.7542 (4324.76 sec)
+Timer: at Thu Jan 18 00:57:48 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 69.9157 (4334.77 sec)
+Timer: at Thu Jan 18 00:57:58 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 70.0771 (4344.78 sec)
+Timer: at Thu Jan 18 00:58:08 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 70.2386 (4354.79 sec)
+Timer: at Thu Jan 18 00:58:18 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 70.4001 (4364.8 sec)
+Timer: at Thu Jan 18 00:58:28 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 70.5615 (4374.82 sec)
+Timer: at Thu Jan 18 00:58:38 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 70.723 (4384.83 sec)
+Timer: at Thu Jan 18 00:58:48 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 70.8845 (4394.84 sec)
+Timer: at Thu Jan 18 00:58:58 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 71.0459 (4404.85 sec)
+Timer: at Thu Jan 18 00:59:08 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 71.2074 (4414.86 sec)
+Timer: at Thu Jan 18 00:59:18 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 71.3689 (4424.87 sec)
+Timer: at Thu Jan 18 00:59:28 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 71.5303 (4434.88 sec)
+Timer: at Thu Jan 18 00:59:38 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 71.6918 (4444.89 sec)
+Timer: at Thu Jan 18 00:59:48 2024: successes: 62, attemps: 99: prob: 0.626263 time per success: 71.8533 (4454.9 sec)
+FAILURE: worker 3: starting from conf_index 255 and seed 1705535223
+Timer: at Thu Jan 18 00:59:58 2024: successes: 62, attemps: 100: prob: 0.62 time per success: 72.0147 (4464.91 sec)
+SUCCESS: worker 7: starting from conf_index 221 and seed 1705535229
+Timer: at Thu Jan 18 01:00:08 2024: successes: 63, attemps: 101: prob: 0.623762 time per success: 71.0306 (4474.93 sec)
+SUCCESS: worker 17: starting from conf_index 998 and seed 1705535212
+Timer: at Thu Jan 18 01:00:18 2024: successes: 64, attemps: 102: prob: 0.627451 time per success: 70.0771 (4484.94 sec)
+Timer: at Thu Jan 18 01:00:28 2024: successes: 64, attemps: 102: prob: 0.627451 time per success: 70.2335 (4494.95 sec)
+Timer: at Thu Jan 18 01:00:38 2024: successes: 64, attemps: 102: prob: 0.627451 time per success: 70.39 (4504.96 sec)
+Timer: at Thu Jan 18 01:00:48 2024: successes: 64, attemps: 102: prob: 0.627451 time per success: 70.5464 (4514.97 sec)
+SUCCESS: worker 6: starting from conf_index 38 and seed 1705535230
+Timer: at Thu Jan 18 01:00:58 2024: successes: 65, attemps: 103: prob: 0.631068 time per success: 69.6151 (4524.98 sec)
+Timer: at Thu Jan 18 01:01:08 2024: successes: 65, attemps: 103: prob: 0.631068 time per success: 69.7691 (4534.99 sec)
+Timer: at Thu Jan 18 01:01:18 2024: successes: 65, attemps: 103: prob: 0.631068 time per success: 69.9231 (4545 sec)
+Timer: at Thu Jan 18 01:01:28 2024: successes: 65, attemps: 103: prob: 0.631068 time per success: 70.0771 (4555.01 sec)
+Timer: at Thu Jan 18 01:01:38 2024: successes: 65, attemps: 103: prob: 0.631068 time per success: 70.2311 (4565.02 sec)
+Timer: at Thu Jan 18 01:01:48 2024: successes: 65, attemps: 103: prob: 0.631068 time per success: 70.3852 (4575.04 sec)
+Timer: at Thu Jan 18 01:01:58 2024: successes: 65, attemps: 103: prob: 0.631068 time per success: 70.5392 (4585.05 sec)
+Timer: at Thu Jan 18 01:02:08 2024: successes: 65, attemps: 103: prob: 0.631068 time per success: 70.6932 (4595.06 sec)
+Timer: at Thu Jan 18 01:02:18 2024: successes: 65, attemps: 103: prob: 0.631068 time per success: 70.8472 (4605.07 sec)
+Timer: at Thu Jan 18 01:02:28 2024: successes: 65, attemps: 103: prob: 0.631068 time per success: 71.0012 (4615.08 sec)
+Timer: at Thu Jan 18 01:02:38 2024: successes: 65, attemps: 103: prob: 0.631068 time per success: 71.1552 (4625.09 sec)
+Timer: at Thu Jan 18 01:02:48 2024: successes: 65, attemps: 103: prob: 0.631068 time per success: 71.3092 (4635.1 sec)
+Timer: at Thu Jan 18 01:02:58 2024: successes: 65, attemps: 103: prob: 0.631068 time per success: 71.4633 (4645.11 sec)
+FAILURE: worker 1: starting from conf_index 318 and seed 1705535135
+Timer: at Thu Jan 18 01:03:08 2024: successes: 65, attemps: 104: prob: 0.625 time per success: 71.6173 (4655.12 sec)
+FAILURE: worker 11: starting from conf_index 210 and seed 1705535182
+Timer: at Thu Jan 18 01:03:18 2024: successes: 65, attemps: 105: prob: 0.619048 time per success: 71.7713 (4665.13 sec)
+Timer: at Thu Jan 18 01:03:28 2024: successes: 65, attemps: 105: prob: 0.619048 time per success: 71.9253 (4675.15 sec)
+Timer: at Thu Jan 18 01:03:38 2024: successes: 65, attemps: 105: prob: 0.619048 time per success: 72.0793 (4685.16 sec)
+Timer: at Thu Jan 18 01:03:49 2024: successes: 65, attemps: 105: prob: 0.619048 time per success: 72.2333 (4695.17 sec)
+Timer: at Thu Jan 18 01:03:59 2024: successes: 65, attemps: 105: prob: 0.619048 time per success: 72.3874 (4705.18 sec)
+Timer: at Thu Jan 18 01:04:09 2024: successes: 65, attemps: 105: prob: 0.619048 time per success: 72.5414 (4715.19 sec)
+Timer: at Thu Jan 18 01:04:19 2024: successes: 65, attemps: 105: prob: 0.619048 time per success: 72.6954 (4725.2 sec)
+Timer: at Thu Jan 18 01:04:29 2024: successes: 65, attemps: 105: prob: 0.619048 time per success: 72.8494 (4735.21 sec)
+SUCCESS: worker 11: starting from conf_index 489 and seed 1705535238
+Timer: at Thu Jan 18 01:04:39 2024: successes: 66, attemps: 106: prob: 0.622642 time per success: 71.8973 (4745.22 sec)
+Timer: at Thu Jan 18 01:04:49 2024: successes: 66, attemps: 106: prob: 0.622642 time per success: 72.049 (4755.23 sec)
+Timer: at Thu Jan 18 01:04:59 2024: successes: 66, attemps: 106: prob: 0.622642 time per success: 72.2007 (4765.24 sec)
+Timer: at Thu Jan 18 01:05:09 2024: successes: 66, attemps: 106: prob: 0.622642 time per success: 72.3523 (4775.26 sec)
+Timer: at Thu Jan 18 01:05:19 2024: successes: 66, attemps: 106: prob: 0.622642 time per success: 72.504 (4785.27 sec)
+Timer: at Thu Jan 18 01:05:29 2024: successes: 66, attemps: 106: prob: 0.622642 time per success: 72.6557 (4795.28 sec)
+Timer: at Thu Jan 18 01:05:39 2024: successes: 66, attemps: 106: prob: 0.622642 time per success: 72.8074 (4805.29 sec)
+Timer: at Thu Jan 18 01:05:49 2024: successes: 66, attemps: 106: prob: 0.622642 time per success: 72.9591 (4815.3 sec)
+Timer: at Thu Jan 18 01:05:59 2024: successes: 66, attemps: 106: prob: 0.622642 time per success: 73.1108 (4825.31 sec)
+Timer: at Thu Jan 18 01:06:09 2024: successes: 66, attemps: 106: prob: 0.622642 time per success: 73.2624 (4835.32 sec)
+SUCCESS: worker 0: starting from conf_index 940 and seed 1705535202
+Timer: at Thu Jan 18 01:06:19 2024: successes: 67, attemps: 107: prob: 0.626168 time per success: 72.3184 (4845.33 sec)
+Timer: at Thu Jan 18 01:06:29 2024: successes: 67, attemps: 107: prob: 0.626168 time per success: 72.4678 (4855.34 sec)
+Timer: at Thu Jan 18 01:06:39 2024: successes: 67, attemps: 107: prob: 0.626168 time per success: 72.6172 (4865.35 sec)
+FAILURE: worker 1: starting from conf_index 604 and seed 1705535237
+Timer: at Thu Jan 18 01:06:49 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 72.7666 (4875.37 sec)
+Timer: at Thu Jan 18 01:06:59 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 72.9161 (4885.38 sec)
+Timer: at Thu Jan 18 01:07:09 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 73.0655 (4895.39 sec)
+Timer: at Thu Jan 18 01:07:19 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 73.2149 (4905.4 sec)
+Timer: at Thu Jan 18 01:07:29 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 73.3643 (4915.41 sec)
+Timer: at Thu Jan 18 01:07:39 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 73.5137 (4925.42 sec)
+Timer: at Thu Jan 18 01:07:49 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 73.6632 (4935.43 sec)
+Timer: at Thu Jan 18 01:07:59 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 73.8126 (4945.44 sec)
+Timer: at Thu Jan 18 01:08:09 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 73.962 (4955.45 sec)
+Timer: at Thu Jan 18 01:08:19 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 74.1114 (4965.46 sec)
+Timer: at Thu Jan 18 01:08:29 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 74.2608 (4975.48 sec)
+Timer: at Thu Jan 18 01:08:39 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 74.4102 (4985.49 sec)
+Timer: at Thu Jan 18 01:08:49 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 74.5597 (4995.5 sec)
+Timer: at Thu Jan 18 01:08:59 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 74.7091 (5005.51 sec)
+Timer: at Thu Jan 18 01:09:09 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 74.8585 (5015.52 sec)
+Timer: at Thu Jan 18 01:09:19 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 75.0079 (5025.53 sec)
+Timer: at Thu Jan 18 01:09:29 2024: successes: 67, attemps: 108: prob: 0.62037 time per success: 75.1573 (5035.54 sec)
+SUCCESS: worker 19: starting from conf_index 182 and seed 1705535168
+Timer: at Thu Jan 18 01:09:39 2024: successes: 68, attemps: 109: prob: 0.623853 time per success: 74.1993 (5045.55 sec)
+Timer: at Thu Jan 18 01:09:49 2024: successes: 68, attemps: 109: prob: 0.623853 time per success: 74.3465 (5055.56 sec)
+Timer: at Thu Jan 18 01:09:59 2024: successes: 68, attemps: 109: prob: 0.623853 time per success: 74.4937 (5065.57 sec)
+Timer: at Thu Jan 18 01:10:09 2024: successes: 68, attemps: 109: prob: 0.623853 time per success: 74.641 (5075.59 sec)
+Timer: at Thu Jan 18 01:10:19 2024: successes: 68, attemps: 109: prob: 0.623853 time per success: 74.7882 (5085.6 sec)
+SUCCESS: worker 16: starting from conf_index 951 and seed 1705535232
+Timer: at Thu Jan 18 01:10:29 2024: successes: 69, attemps: 110: prob: 0.627273 time per success: 73.8494 (5095.61 sec)
+Timer: at Thu Jan 18 01:10:39 2024: successes: 69, attemps: 110: prob: 0.627273 time per success: 73.9945 (5105.62 sec)
+SUCCESS: worker 12: starting from conf_index 528 and seed 1705535183
+Timer: at Thu Jan 18 01:10:49 2024: successes: 70, attemps: 111: prob: 0.630631 time per success: 73.0804 (5115.63 sec)
+FAILURE: worker 3: starting from conf_index 209 and seed 1705535233
+Timer: at Thu Jan 18 01:10:59 2024: successes: 70, attemps: 112: prob: 0.625 time per success: 73.2234 (5125.64 sec)
+Timer: at Thu Jan 18 01:11:09 2024: successes: 70, attemps: 112: prob: 0.625 time per success: 73.3664 (5135.65 sec)
+SUCCESS: worker 7: starting from conf_index 530 and seed 1705535234
+SUCCESS: worker 8: starting from conf_index 651 and seed 1705535221
+SUCCESS: worker 15: starting from conf_index 516 and seed 1705535214
+Timer: at Thu Jan 18 01:11:19 2024: successes: 73, attemps: 115: prob: 0.634783 time per success: 70.4885 (5145.66 sec)
+Timer: at Thu Jan 18 01:11:29 2024: successes: 73, attemps: 115: prob: 0.634783 time per success: 70.6257 (5155.67 sec)
+Timer: at Thu Jan 18 01:11:39 2024: successes: 73, attemps: 115: prob: 0.634783 time per success: 70.7628 (5165.68 sec)
+SUCCESS: worker 5: starting from conf_index 336 and seed 1705535215
+Timer: at Thu Jan 18 01:11:49 2024: successes: 74, attemps: 116: prob: 0.637931 time per success: 69.9418 (5175.7 sec)
+Timer: at Thu Jan 18 01:11:59 2024: successes: 74, attemps: 116: prob: 0.637931 time per success: 70.0771 (5185.71 sec)
+SUCCESS: worker 15: starting from conf_index 865 and seed 1705535248
+Timer: at Thu Jan 18 01:12:09 2024: successes: 75, attemps: 117: prob: 0.641026 time per success: 69.2762 (5195.72 sec)
+Timer: at Thu Jan 18 01:12:19 2024: successes: 75, attemps: 117: prob: 0.641026 time per success: 69.4097 (5205.73 sec)
+Timer: at Thu Jan 18 01:12:29 2024: successes: 75, attemps: 117: prob: 0.641026 time per success: 69.5432 (5215.74 sec)
+Timer: at Thu Jan 18 01:12:39 2024: successes: 75, attemps: 117: prob: 0.641026 time per success: 69.6767 (5225.75 sec)
+Timer: at Thu Jan 18 01:12:49 2024: successes: 75, attemps: 117: prob: 0.641026 time per success: 69.8101 (5235.76 sec)
+Timer: at Thu Jan 18 01:12:59 2024: successes: 75, attemps: 117: prob: 0.641026 time per success: 69.9436 (5245.77 sec)
+Timer: at Thu Jan 18 01:13:09 2024: successes: 75, attemps: 117: prob: 0.641026 time per success: 70.0771 (5255.78 sec)
+Timer: at Thu Jan 18 01:13:19 2024: successes: 75, attemps: 117: prob: 0.641026 time per success: 70.2106 (5265.79 sec)
+FAILURE: worker 12: starting from conf_index 108 and seed 1705535244
+SUCCESS: worker 18: starting from conf_index 181 and seed 1705535213
+Timer: at Thu Jan 18 01:13:29 2024: successes: 76, attemps: 119: prob: 0.638655 time per success: 69.4185 (5275.81 sec)
+Timer: at Thu Jan 18 01:13:39 2024: successes: 76, attemps: 119: prob: 0.638655 time per success: 69.5502 (5285.82 sec)
+SUCCESS: worker 7: starting from conf_index 393 and seed 1705535246
+Timer: at Thu Jan 18 01:13:49 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 68.777 (5295.83 sec)
+Timer: at Thu Jan 18 01:13:59 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 68.907 (5305.84 sec)
+Timer: at Thu Jan 18 01:14:09 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 69.037 (5315.85 sec)
+Timer: at Thu Jan 18 01:14:19 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 69.167 (5325.86 sec)
+Timer: at Thu Jan 18 01:14:29 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 69.297 (5335.87 sec)
+Timer: at Thu Jan 18 01:14:39 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 69.427 (5345.88 sec)
+Timer: at Thu Jan 18 01:14:49 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 69.5571 (5355.89 sec)
+Timer: at Thu Jan 18 01:14:59 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 69.6871 (5365.9 sec)
+Timer: at Thu Jan 18 01:15:09 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 69.8171 (5375.92 sec)
+Timer: at Thu Jan 18 01:15:19 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 69.9471 (5385.93 sec)
+Timer: at Thu Jan 18 01:15:29 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 70.0771 (5395.94 sec)
+Timer: at Thu Jan 18 01:15:39 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 70.2071 (5405.95 sec)
+Timer: at Thu Jan 18 01:15:49 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 70.3371 (5415.96 sec)
+Timer: at Thu Jan 18 01:15:59 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 70.4671 (5425.97 sec)
+Timer: at Thu Jan 18 01:16:09 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 70.5972 (5435.98 sec)
+Timer: at Thu Jan 18 01:16:19 2024: successes: 77, attemps: 120: prob: 0.641667 time per success: 70.7272 (5445.99 sec)
+SUCCESS: worker 10: starting from conf_index 965 and seed 1705535210
+Timer: at Thu Jan 18 01:16:29 2024: successes: 78, attemps: 121: prob: 0.644628 time per success: 69.9487 (5456 sec)
+Timer: at Thu Jan 18 01:16:39 2024: successes: 78, attemps: 121: prob: 0.644628 time per success: 70.0771 (5466.01 sec)
+Timer: at Thu Jan 18 01:16:49 2024: successes: 78, attemps: 121: prob: 0.644628 time per success: 70.2054 (5476.02 sec)
+Timer: at Thu Jan 18 01:16:59 2024: successes: 78, attemps: 121: prob: 0.644628 time per success: 70.3338 (5486.04 sec)
+Timer: at Thu Jan 18 01:17:09 2024: successes: 78, attemps: 121: prob: 0.644628 time per success: 70.4621 (5496.05 sec)
+Timer: at Thu Jan 18 01:17:19 2024: successes: 78, attemps: 121: prob: 0.644628 time per success: 70.5905 (5506.06 sec)
+Timer: at Thu Jan 18 01:17:29 2024: successes: 78, attemps: 121: prob: 0.644628 time per success: 70.7188 (5516.07 sec)
+Timer: at Thu Jan 18 01:17:39 2024: successes: 78, attemps: 121: prob: 0.644628 time per success: 70.8472 (5526.08 sec)
+Timer: at Thu Jan 18 01:17:49 2024: successes: 78, attemps: 121: prob: 0.644628 time per success: 70.9755 (5536.09 sec)
+Timer: at Thu Jan 18 01:17:59 2024: successes: 78, attemps: 121: prob: 0.644628 time per success: 71.1039 (5546.1 sec)
+Timer: at Thu Jan 18 01:18:09 2024: successes: 78, attemps: 121: prob: 0.644628 time per success: 71.2322 (5556.11 sec)
+Timer: at Thu Jan 18 01:18:19 2024: successes: 78, attemps: 121: prob: 0.644628 time per success: 71.3606 (5566.12 sec)
+SUCCESS: worker 9: starting from conf_index 333 and seed 1705535224
+FAILURE: worker 9: starting from conf_index 933 and seed 1705535255
+Timer: at Thu Jan 18 01:18:29 2024: successes: 79, attemps: 123: prob: 0.642276 time per success: 70.584 (5576.13 sec)
+Timer: at Thu Jan 18 01:18:39 2024: successes: 79, attemps: 123: prob: 0.642276 time per success: 70.7107 (5586.15 sec)
+Timer: at Thu Jan 18 01:18:49 2024: successes: 79, attemps: 123: prob: 0.642276 time per success: 70.8374 (5596.16 sec)
+SUCCESS: worker 4: starting from conf_index 899 and seed 1705535231
+Timer: at Thu Jan 18 01:19:00 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 70.0771 (5606.17 sec)
+Timer: at Thu Jan 18 01:19:10 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 70.2022 (5616.18 sec)
+Timer: at Thu Jan 18 01:19:20 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 70.3274 (5626.19 sec)
+Timer: at Thu Jan 18 01:19:30 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 70.4525 (5636.2 sec)
+Timer: at Thu Jan 18 01:19:40 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 70.5776 (5646.21 sec)
+Timer: at Thu Jan 18 01:19:50 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 70.7028 (5656.22 sec)
+Timer: at Thu Jan 18 01:20:00 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 70.8279 (5666.23 sec)
+Timer: at Thu Jan 18 01:20:10 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 70.9531 (5676.24 sec)
+Timer: at Thu Jan 18 01:20:20 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 71.0782 (5686.26 sec)
+Timer: at Thu Jan 18 01:20:30 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 71.2033 (5696.27 sec)
+Timer: at Thu Jan 18 01:20:40 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 71.3285 (5706.28 sec)
+Timer: at Thu Jan 18 01:20:50 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 71.4536 (5716.29 sec)
+Timer: at Thu Jan 18 01:21:00 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 71.5787 (5726.3 sec)
+Timer: at Thu Jan 18 01:21:10 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 71.7039 (5736.31 sec)
+Timer: at Thu Jan 18 01:21:20 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 71.829 (5746.32 sec)
+Timer: at Thu Jan 18 01:21:30 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 71.9542 (5756.33 sec)
+Timer: at Thu Jan 18 01:21:40 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 72.0793 (5766.34 sec)
+Timer: at Thu Jan 18 01:21:50 2024: successes: 80, attemps: 124: prob: 0.645161 time per success: 72.2044 (5776.35 sec)
+SUCCESS: worker 13: starting from conf_index 834 and seed 1705535228
+FAILURE: worker 3: starting from conf_index 611 and seed 1705535245
+Timer: at Thu Jan 18 01:22:00 2024: successes: 81, attemps: 126: prob: 0.642857 time per success: 71.4366 (5786.37 sec)
+SUCCESS: worker 2: starting from conf_index 468 and seed 1705535217
+Timer: at Thu Jan 18 01:22:10 2024: successes: 82, attemps: 127: prob: 0.645669 time per success: 70.6875 (5796.38 sec)
+Timer: at Thu Jan 18 01:22:20 2024: successes: 82, attemps: 127: prob: 0.645669 time per success: 70.8096 (5806.39 sec)
+Timer: at Thu Jan 18 01:22:30 2024: successes: 82, attemps: 127: prob: 0.645669 time per success: 70.9317 (5816.4 sec)
+Timer: at Thu Jan 18 01:22:40 2024: successes: 82, attemps: 127: prob: 0.645669 time per success: 71.0538 (5826.41 sec)
+Timer: at Thu Jan 18 01:22:50 2024: successes: 82, attemps: 127: prob: 0.645669 time per success: 71.1758 (5836.42 sec)
+SUCCESS: worker 9: starting from conf_index 952 and seed 1705535256
+Timer: at Thu Jan 18 01:23:00 2024: successes: 83, attemps: 128: prob: 0.648438 time per success: 70.4389 (5846.43 sec)
+Timer: at Thu Jan 18 01:23:10 2024: successes: 83, attemps: 128: prob: 0.648438 time per success: 70.5595 (5856.44 sec)
+Timer: at Thu Jan 18 01:23:20 2024: successes: 83, attemps: 128: prob: 0.648438 time per success: 70.6801 (5866.45 sec)
+Timer: at Thu Jan 18 01:23:30 2024: successes: 83, attemps: 128: prob: 0.648438 time per success: 70.8008 (5876.46 sec)
+Timer: at Thu Jan 18 01:23:40 2024: successes: 83, attemps: 128: prob: 0.648438 time per success: 70.9214 (5886.47 sec)
+Timer: at Thu Jan 18 01:23:50 2024: successes: 83, attemps: 128: prob: 0.648438 time per success: 71.042 (5896.49 sec)
+Timer: at Thu Jan 18 01:24:00 2024: successes: 83, attemps: 128: prob: 0.648438 time per success: 71.1626 (5906.5 sec)
+Timer: at Thu Jan 18 01:24:10 2024: successes: 83, attemps: 128: prob: 0.648438 time per success: 71.2832 (5916.51 sec)
+Timer: at Thu Jan 18 01:24:20 2024: successes: 83, attemps: 128: prob: 0.648438 time per success: 71.4038 (5926.52 sec)
+Timer: at Thu Jan 18 01:24:30 2024: successes: 83, attemps: 128: prob: 0.648438 time per success: 71.5244 (5936.53 sec)
+Timer: at Thu Jan 18 01:24:40 2024: successes: 83, attemps: 128: prob: 0.648438 time per success: 71.6451 (5946.54 sec)
+Timer: at Thu Jan 18 01:24:50 2024: successes: 83, attemps: 128: prob: 0.648438 time per success: 71.7657 (5956.55 sec)
+Timer: at Thu Jan 18 01:25:00 2024: successes: 83, attemps: 128: prob: 0.648438 time per success: 71.8863 (5966.56 sec)
+SUCCESS: worker 2: starting from conf_index 735 and seed 1705535260
+Timer: at Thu Jan 18 01:25:10 2024: successes: 84, attemps: 129: prob: 0.651163 time per success: 71.1497 (5976.57 sec)
+Timer: at Thu Jan 18 01:25:20 2024: successes: 84, attemps: 129: prob: 0.651163 time per success: 71.2689 (5986.58 sec)
+SUCCESS: worker 12: starting from conf_index 161 and seed 1705535251
+Timer: at Thu Jan 18 01:25:30 2024: successes: 85, attemps: 130: prob: 0.653846 time per success: 70.5482 (5996.6 sec)
+Timer: at Thu Jan 18 01:25:40 2024: successes: 85, attemps: 130: prob: 0.653846 time per success: 70.666 (6006.61 sec)
+Timer: at Thu Jan 18 01:25:50 2024: successes: 85, attemps: 130: prob: 0.653846 time per success: 70.7837 (6016.62 sec)
+Timer: at Thu Jan 18 01:26:00 2024: successes: 85, attemps: 130: prob: 0.653846 time per success: 70.9015 (6026.63 sec)
+Timer: at Thu Jan 18 01:26:10 2024: successes: 85, attemps: 130: prob: 0.653846 time per success: 71.0193 (6036.64 sec)
+Timer: at Thu Jan 18 01:26:20 2024: successes: 85, attemps: 130: prob: 0.653846 time per success: 71.1371 (6046.65 sec)
+SUCCESS: worker 6: starting from conf_index 855 and seed 1705535236
+Timer: at Thu Jan 18 01:26:30 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 70.4263 (6056.66 sec)
+Timer: at Thu Jan 18 01:26:40 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 70.5427 (6066.67 sec)
+Timer: at Thu Jan 18 01:26:50 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 70.6591 (6076.68 sec)
+Timer: at Thu Jan 18 01:27:00 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 70.7755 (6086.69 sec)
+Timer: at Thu Jan 18 01:27:10 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 70.8919 (6096.71 sec)
+Timer: at Thu Jan 18 01:27:20 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 71.0083 (6106.72 sec)
+Timer: at Thu Jan 18 01:27:30 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 71.1247 (6116.73 sec)
+Timer: at Thu Jan 18 01:27:40 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 71.2411 (6126.74 sec)
+Timer: at Thu Jan 18 01:27:50 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 71.3575 (6136.75 sec)
+Timer: at Thu Jan 18 01:28:00 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 71.474 (6146.76 sec)
+Timer: at Thu Jan 18 01:28:10 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 71.5904 (6156.77 sec)
+Timer: at Thu Jan 18 01:28:20 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 71.7068 (6166.78 sec)
+Timer: at Thu Jan 18 01:28:30 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 71.8232 (6176.79 sec)
+Timer: at Thu Jan 18 01:28:40 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 71.9396 (6186.8 sec)
+Timer: at Thu Jan 18 01:28:50 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 72.056 (6196.82 sec)
+Timer: at Thu Jan 18 01:29:00 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 72.1724 (6206.83 sec)
+Timer: at Thu Jan 18 01:29:10 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 72.2888 (6216.84 sec)
+Timer: at Thu Jan 18 01:29:20 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 72.4052 (6226.85 sec)
+Timer: at Thu Jan 18 01:29:30 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 72.5216 (6236.86 sec)
+Timer: at Thu Jan 18 01:29:40 2024: successes: 86, attemps: 131: prob: 0.656489 time per success: 72.638 (6246.87 sec)
+SUCCESS: worker 1: starting from conf_index 584 and seed 1705535241
+Timer: at Thu Jan 18 01:29:50 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 71.9182 (6256.88 sec)
+Timer: at Thu Jan 18 01:30:00 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 72.0332 (6266.89 sec)
+Timer: at Thu Jan 18 01:30:10 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 72.1483 (6276.9 sec)
+Timer: at Thu Jan 18 01:30:20 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 72.2634 (6286.91 sec)
+Timer: at Thu Jan 18 01:30:30 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 72.3784 (6296.93 sec)
+Timer: at Thu Jan 18 01:30:40 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 72.4935 (6306.94 sec)
+Timer: at Thu Jan 18 01:30:50 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 72.6086 (6316.95 sec)
+Timer: at Thu Jan 18 01:31:00 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 72.7237 (6326.96 sec)
+Timer: at Thu Jan 18 01:31:10 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 72.8387 (6336.97 sec)
+Timer: at Thu Jan 18 01:31:20 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 72.9538 (6346.98 sec)
+Timer: at Thu Jan 18 01:31:30 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 73.0689 (6356.99 sec)
+Timer: at Thu Jan 18 01:31:40 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 73.1839 (6367 sec)
+Timer: at Thu Jan 18 01:31:50 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 73.299 (6377.01 sec)
+Timer: at Thu Jan 18 01:32:00 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 73.4141 (6387.02 sec)
+Timer: at Thu Jan 18 01:32:10 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 73.5291 (6397.04 sec)
+Timer: at Thu Jan 18 01:32:20 2024: successes: 87, attemps: 132: prob: 0.659091 time per success: 73.6442 (6407.05 sec)
+FAILURE: worker 12: starting from conf_index 39 and seed 1705535263
+Timer: at Thu Jan 18 01:32:30 2024: successes: 87, attemps: 133: prob: 0.654135 time per success: 73.7593 (6417.06 sec)
+Timer: at Thu Jan 18 01:32:40 2024: successes: 87, attemps: 133: prob: 0.654135 time per success: 73.8743 (6427.07 sec)
+Timer: at Thu Jan 18 01:32:50 2024: successes: 87, attemps: 133: prob: 0.654135 time per success: 73.9894 (6437.08 sec)
+Timer: at Thu Jan 18 01:33:00 2024: successes: 87, attemps: 133: prob: 0.654135 time per success: 74.1045 (6447.09 sec)
+SUCCESS: worker 1: starting from conf_index 233 and seed 1705535265
+Timer: at Thu Jan 18 01:33:10 2024: successes: 88, attemps: 134: prob: 0.656716 time per success: 73.3761 (6457.1 sec)
+Timer: at Thu Jan 18 01:33:20 2024: successes: 88, attemps: 134: prob: 0.656716 time per success: 73.4899 (6467.11 sec)
+Timer: at Thu Jan 18 01:33:30 2024: successes: 88, attemps: 134: prob: 0.656716 time per success: 73.6037 (6477.12 sec)
+Timer: at Thu Jan 18 01:33:40 2024: successes: 88, attemps: 134: prob: 0.656716 time per success: 73.7174 (6487.13 sec)
+Timer: at Thu Jan 18 01:33:50 2024: successes: 88, attemps: 134: prob: 0.656716 time per success: 73.8312 (6497.15 sec)
+Timer: at Thu Jan 18 01:34:00 2024: successes: 88, attemps: 134: prob: 0.656716 time per success: 73.945 (6507.16 sec)
+Timer: at Thu Jan 18 01:34:11 2024: successes: 88, attemps: 134: prob: 0.656716 time per success: 74.0587 (6517.17 sec)
+Timer: at Thu Jan 18 01:34:21 2024: successes: 88, attemps: 134: prob: 0.656716 time per success: 74.1725 (6527.18 sec)
+Timer: at Thu Jan 18 01:34:31 2024: successes: 88, attemps: 134: prob: 0.656716 time per success: 74.2862 (6537.19 sec)
+Timer: at Thu Jan 18 01:34:41 2024: successes: 88, attemps: 134: prob: 0.656716 time per success: 74.4 (6547.2 sec)
+Timer: at Thu Jan 18 01:34:51 2024: successes: 88, attemps: 134: prob: 0.656716 time per success: 74.5138 (6557.21 sec)
+Timer: at Thu Jan 18 01:35:01 2024: successes: 88, attemps: 134: prob: 0.656716 time per success: 74.6275 (6567.22 sec)
+SUCCESS: worker 14: starting from conf_index 416 and seed 1705535219
+Timer: at Thu Jan 18 01:35:11 2024: successes: 89, attemps: 135: prob: 0.659259 time per success: 73.9015 (6577.23 sec)
+Timer: at Thu Jan 18 01:35:21 2024: successes: 89, attemps: 135: prob: 0.659259 time per success: 74.014 (6587.24 sec)
+Timer: at Thu Jan 18 01:35:31 2024: successes: 89, attemps: 135: prob: 0.659259 time per success: 74.1265 (6597.26 sec)
+Timer: at Thu Jan 18 01:35:41 2024: successes: 89, attemps: 135: prob: 0.659259 time per success: 74.2389 (6607.27 sec)
+Timer: at Thu Jan 18 01:35:51 2024: successes: 89, attemps: 135: prob: 0.659259 time per success: 74.3514 (6617.28 sec)
+Timer: at Thu Jan 18 01:36:01 2024: successes: 89, attemps: 135: prob: 0.659259 time per success: 74.4639 (6627.29 sec)
+Timer: at Thu Jan 18 01:36:11 2024: successes: 89, attemps: 135: prob: 0.659259 time per success: 74.5764 (6637.3 sec)
+SUCCESS: worker 17: starting from conf_index 305 and seed 1705535235
+SUCCESS: worker 9: starting from conf_index 336 and seed 1705535261
+Timer: at Thu Jan 18 01:36:21 2024: successes: 91, attemps: 137: prob: 0.664234 time per success: 73.0474 (6647.31 sec)
+SUCCESS: worker 11: starting from conf_index 93 and seed 1705535239
+Timer: at Thu Jan 18 01:36:31 2024: successes: 92, attemps: 138: prob: 0.666667 time per success: 72.3622 (6657.32 sec)
+Timer: at Thu Jan 18 01:36:41 2024: successes: 92, attemps: 138: prob: 0.666667 time per success: 72.471 (6667.33 sec)
+Timer: at Thu Jan 18 01:36:51 2024: successes: 92, attemps: 138: prob: 0.666667 time per success: 72.5798 (6677.34 sec)
+Timer: at Thu Jan 18 01:37:01 2024: successes: 92, attemps: 138: prob: 0.666667 time per success: 72.6886 (6687.35 sec)
+Timer: at Thu Jan 18 01:37:11 2024: successes: 92, attemps: 138: prob: 0.666667 time per success: 72.7974 (6697.37 sec)
+Timer: at Thu Jan 18 01:37:21 2024: successes: 92, attemps: 138: prob: 0.666667 time per success: 72.9063 (6707.38 sec)
+Timer: at Thu Jan 18 01:37:31 2024: successes: 92, attemps: 138: prob: 0.666667 time per success: 73.0151 (6717.39 sec)
+Timer: at Thu Jan 18 01:37:41 2024: successes: 92, attemps: 138: prob: 0.666667 time per success: 73.1239 (6727.4 sec)
+Timer: at Thu Jan 18 01:37:51 2024: successes: 92, attemps: 138: prob: 0.666667 time per success: 73.2327 (6737.41 sec)
+Timer: at Thu Jan 18 01:38:01 2024: successes: 92, attemps: 138: prob: 0.666667 time per success: 73.3415 (6747.42 sec)
+Timer: at Thu Jan 18 01:38:11 2024: successes: 92, attemps: 138: prob: 0.666667 time per success: 73.4503 (6757.43 sec)
+Timer: at Thu Jan 18 01:38:21 2024: successes: 92, attemps: 138: prob: 0.666667 time per success: 73.5592 (6767.44 sec)
+Timer: at Thu Jan 18 01:38:31 2024: successes: 92, attemps: 138: prob: 0.666667 time per success: 73.668 (6777.45 sec)
+SUCCESS: worker 1: starting from conf_index 193 and seed 1705535267
+Timer: at Thu Jan 18 01:38:41 2024: successes: 93, attemps: 139: prob: 0.669065 time per success: 72.9835 (6787.46 sec)
+Timer: at Thu Jan 18 01:38:51 2024: successes: 93, attemps: 139: prob: 0.669065 time per success: 73.0911 (6797.48 sec)
+Timer: at Thu Jan 18 01:39:01 2024: successes: 93, attemps: 139: prob: 0.669065 time per success: 73.1988 (6807.49 sec)
+Timer: at Thu Jan 18 01:39:11 2024: successes: 93, attemps: 139: prob: 0.669065 time per success: 73.3064 (6817.5 sec)
+SUCCESS: worker 19: starting from conf_index 976 and seed 1705535242
+Timer: at Thu Jan 18 01:39:21 2024: successes: 94, attemps: 140: prob: 0.671429 time per success: 72.6331 (6827.51 sec)
+Timer: at Thu Jan 18 01:39:31 2024: successes: 94, attemps: 140: prob: 0.671429 time per success: 72.7396 (6837.52 sec)
+Timer: at Thu Jan 18 01:39:41 2024: successes: 94, attemps: 140: prob: 0.671429 time per success: 72.8461 (6847.53 sec)
+Timer: at Thu Jan 18 01:39:51 2024: successes: 94, attemps: 140: prob: 0.671429 time per success: 72.9526 (6857.54 sec)
+Timer: at Thu Jan 18 01:40:01 2024: successes: 94, attemps: 140: prob: 0.671429 time per success: 73.0591 (6867.55 sec)
+Timer: at Thu Jan 18 01:40:11 2024: successes: 94, attemps: 140: prob: 0.671429 time per success: 73.1656 (6877.56 sec)
+Timer: at Thu Jan 18 01:40:21 2024: successes: 94, attemps: 140: prob: 0.671429 time per success: 73.2721 (6887.57 sec)
+Timer: at Thu Jan 18 01:40:31 2024: successes: 94, attemps: 140: prob: 0.671429 time per success: 73.3786 (6897.59 sec)
+Timer: at Thu Jan 18 01:40:41 2024: successes: 94, attemps: 140: prob: 0.671429 time per success: 73.4851 (6907.6 sec)
+Timer: at Thu Jan 18 01:40:51 2024: successes: 94, attemps: 140: prob: 0.671429 time per success: 73.5916 (6917.61 sec)
+Timer: at Thu Jan 18 01:41:01 2024: successes: 94, attemps: 140: prob: 0.671429 time per success: 73.6981 (6927.62 sec)
+Timer: at Thu Jan 18 01:41:11 2024: successes: 94, attemps: 140: prob: 0.671429 time per success: 73.8046 (6937.63 sec)
+SUCCESS: worker 3: starting from conf_index 708 and seed 1705535259
+Timer: at Thu Jan 18 01:41:21 2024: successes: 95, attemps: 141: prob: 0.673759 time per success: 73.1331 (6947.64 sec)
+Timer: at Thu Jan 18 01:41:31 2024: successes: 95, attemps: 141: prob: 0.673759 time per success: 73.2384 (6957.65 sec)
+Timer: at Thu Jan 18 01:41:41 2024: successes: 95, attemps: 141: prob: 0.673759 time per success: 73.3438 (6967.66 sec)
+Timer: at Thu Jan 18 01:41:51 2024: successes: 95, attemps: 141: prob: 0.673759 time per success: 73.4492 (6977.67 sec)
+Timer: at Thu Jan 18 01:42:01 2024: successes: 95, attemps: 141: prob: 0.673759 time per success: 73.5546 (6987.68 sec)
+Timer: at Thu Jan 18 01:42:11 2024: successes: 95, attemps: 141: prob: 0.673759 time per success: 73.6599 (6997.7 sec)
+Timer: at Thu Jan 18 01:42:21 2024: successes: 95, attemps: 141: prob: 0.673759 time per success: 73.7653 (7007.71 sec)
+Timer: at Thu Jan 18 01:42:31 2024: successes: 95, attemps: 141: prob: 0.673759 time per success: 73.8707 (7017.72 sec)
+Timer: at Thu Jan 18 01:42:41 2024: successes: 95, attemps: 141: prob: 0.673759 time per success: 73.9761 (7027.73 sec)
+Timer: at Thu Jan 18 01:42:51 2024: successes: 95, attemps: 141: prob: 0.673759 time per success: 74.0815 (7037.74 sec)
+SUCCESS: worker 5: starting from conf_index 94 and seed 1705535249
+Timer: at Thu Jan 18 01:43:01 2024: successes: 96, attemps: 142: prob: 0.676056 time per success: 73.4141 (7047.75 sec)
+Timer: at Thu Jan 18 01:43:11 2024: successes: 96, attemps: 142: prob: 0.676056 time per success: 73.5183 (7057.76 sec)
+SUCCESS: worker 13: starting from conf_index 861 and seed 1705535258
+Timer: at Thu Jan 18 01:43:21 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 72.8636 (7067.77 sec)
+Timer: at Thu Jan 18 01:43:31 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 72.9668 (7077.78 sec)
+Timer: at Thu Jan 18 01:43:41 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 73.07 (7087.79 sec)
+Timer: at Thu Jan 18 01:43:51 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 73.1732 (7097.81 sec)
+Timer: at Thu Jan 18 01:44:01 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 73.2765 (7107.82 sec)
+Timer: at Thu Jan 18 01:44:11 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 73.3797 (7117.83 sec)
+Timer: at Thu Jan 18 01:44:21 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 73.4829 (7127.84 sec)
+Timer: at Thu Jan 18 01:44:31 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 73.5861 (7137.85 sec)
+Timer: at Thu Jan 18 01:44:41 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 73.6893 (7147.86 sec)
+Timer: at Thu Jan 18 01:44:51 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 73.7925 (7157.87 sec)
+Timer: at Thu Jan 18 01:45:01 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 73.8957 (7167.88 sec)
+Timer: at Thu Jan 18 01:45:11 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 73.9989 (7177.89 sec)
+Timer: at Thu Jan 18 01:45:21 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 74.1021 (7187.9 sec)
+Timer: at Thu Jan 18 01:45:31 2024: successes: 97, attemps: 143: prob: 0.678322 time per success: 74.2053 (7197.92 sec)
+SUCCESS: worker 19: starting from conf_index 364 and seed 1705535273
+Timer: at Thu Jan 18 01:45:41 2024: successes: 98, attemps: 144: prob: 0.680556 time per success: 73.5503 (7207.93 sec)
+Timer: at Thu Jan 18 01:45:51 2024: successes: 98, attemps: 144: prob: 0.680556 time per success: 73.6524 (7217.94 sec)
+Timer: at Thu Jan 18 01:46:01 2024: successes: 98, attemps: 144: prob: 0.680556 time per success: 73.7546 (7227.95 sec)
+Timer: at Thu Jan 18 01:46:11 2024: successes: 98, attemps: 144: prob: 0.680556 time per success: 73.8567 (7237.96 sec)
+Timer: at Thu Jan 18 01:46:21 2024: successes: 98, attemps: 144: prob: 0.680556 time per success: 73.9589 (7247.97 sec)
+Timer: at Thu Jan 18 01:46:31 2024: successes: 98, attemps: 144: prob: 0.680556 time per success: 74.061 (7257.98 sec)
+SUCCESS: worker 8: starting from conf_index 151 and seed 1705535247
+Timer: at Thu Jan 18 01:46:41 2024: successes: 99, attemps: 145: prob: 0.682759 time per success: 73.4141 (7267.99 sec)
+Timer: at Thu Jan 18 01:46:51 2024: successes: 99, attemps: 145: prob: 0.682759 time per success: 73.5152 (7278 sec)
+Timer: at Thu Jan 18 01:47:01 2024: successes: 99, attemps: 145: prob: 0.682759 time per success: 73.6163 (7288.01 sec)
+Timer: at Thu Jan 18 01:47:11 2024: successes: 99, attemps: 145: prob: 0.682759 time per success: 73.7174 (7298.03 sec)
+SUCCESS: worker 17: starting from conf_index 732 and seed 1705535269
+Enough processes are started. Worker 17 returning
+Timer: at Thu Jan 18 01:47:21 2024: successes: 100, attemps: 145: prob: 0.689655 time per success: 73.0804 (7308.04 sec)
+FAILURE: worker 3: starting from conf_index 695 and seed 1705535274
+Enough processes are started. Worker 3 returning
+Timer: at Thu Jan 18 01:47:31 2024: successes: 100, attemps: 145: prob: 0.689655 time per success: 73.1805 (7318.05 sec)
+Timer: at Thu Jan 18 01:47:41 2024: successes: 100, attemps: 145: prob: 0.689655 time per success: 73.2806 (7328.06 sec)
+Timer: at Thu Jan 18 01:47:51 2024: successes: 100, attemps: 145: prob: 0.689655 time per success: 73.3807 (7338.07 sec)
+Timer: at Thu Jan 18 01:48:01 2024: successes: 100, attemps: 145: prob: 0.689655 time per success: 73.4808 (7348.08 sec)
+Timer: at Thu Jan 18 01:48:11 2024: successes: 100, attemps: 145: prob: 0.689655 time per success: 73.5809 (7358.09 sec)
+SUCCESS: worker 12: starting from conf_index 11 and seed 1705535266
+Enough processes are started. Worker 12 returning
+Timer: at Thu Jan 18 01:48:21 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 72.9515 (7368.1 sec)
+Timer: at Thu Jan 18 01:48:31 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 73.0506 (7378.11 sec)
+Timer: at Thu Jan 18 01:48:41 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 73.1497 (7388.12 sec)
+Timer: at Thu Jan 18 01:48:51 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 73.2488 (7398.13 sec)
+Timer: at Thu Jan 18 01:49:01 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 73.3479 (7408.14 sec)
+Timer: at Thu Jan 18 01:49:11 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 73.447 (7418.15 sec)
+Timer: at Thu Jan 18 01:49:22 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 73.5461 (7428.16 sec)
+Timer: at Thu Jan 18 01:49:32 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 73.6452 (7438.17 sec)
+Timer: at Thu Jan 18 01:49:42 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 73.7443 (7448.18 sec)
+Timer: at Thu Jan 18 01:49:52 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 73.8435 (7458.19 sec)
+Timer: at Thu Jan 18 01:50:02 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 73.9425 (7468.19 sec)
+Timer: at Thu Jan 18 01:50:12 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 74.0416 (7478.2 sec)
+Timer: at Thu Jan 18 01:50:22 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 74.1407 (7488.21 sec)
+Timer: at Thu Jan 18 01:50:32 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 74.2398 (7498.22 sec)
+Timer: at Thu Jan 18 01:50:42 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 74.3388 (7508.22 sec)
+Timer: at Thu Jan 18 01:50:52 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 74.438 (7518.23 sec)
+Timer: at Thu Jan 18 01:51:02 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 74.5371 (7528.24 sec)
+Timer: at Thu Jan 18 01:51:12 2024: successes: 101, attemps: 145: prob: 0.696552 time per success: 74.6361 (7538.25 sec)
+SUCCESS: worker 0: starting from conf_index 691 and seed 1705535240
+Enough processes are started. Worker 0 returning
+Timer: at Thu Jan 18 01:51:22 2024: successes: 102, attemps: 145: prob: 0.703448 time per success: 74.0025 (7548.26 sec)
+Timer: at Thu Jan 18 01:51:32 2024: successes: 102, attemps: 145: prob: 0.703448 time per success: 74.1007 (7558.27 sec)
+Timer: at Thu Jan 18 01:51:42 2024: successes: 102, attemps: 145: prob: 0.703448 time per success: 74.1988 (7568.28 sec)
+Timer: at Thu Jan 18 01:51:52 2024: successes: 102, attemps: 145: prob: 0.703448 time per success: 74.2969 (7578.29 sec)
+Timer: at Thu Jan 18 01:52:02 2024: successes: 102, attemps: 145: prob: 0.703448 time per success: 74.395 (7588.29 sec)
+Timer: at Thu Jan 18 01:52:12 2024: successes: 102, attemps: 145: prob: 0.703448 time per success: 74.4932 (7598.3 sec)
+Timer: at Thu Jan 18 01:52:22 2024: successes: 102, attemps: 145: prob: 0.703448 time per success: 74.5913 (7608.31 sec)
+Timer: at Thu Jan 18 01:52:32 2024: successes: 102, attemps: 145: prob: 0.703448 time per success: 74.6895 (7618.32 sec)
+Timer: at Thu Jan 18 01:52:42 2024: successes: 102, attemps: 145: prob: 0.703448 time per success: 74.7876 (7628.33 sec)
+Timer: at Thu Jan 18 01:52:52 2024: successes: 102, attemps: 145: prob: 0.703448 time per success: 74.8857 (7638.34 sec)
+Timer: at Thu Jan 18 01:53:02 2024: successes: 102, attemps: 145: prob: 0.703448 time per success: 74.9839 (7648.35 sec)
+Timer: at Thu Jan 18 01:53:12 2024: successes: 102, attemps: 145: prob: 0.703448 time per success: 75.082 (7658.37 sec)
+SUCCESS: worker 9: starting from conf_index 657 and seed 1705535270
+Enough processes are started. Worker 9 returning
+Timer: at Thu Jan 18 01:53:22 2024: successes: 103, attemps: 145: prob: 0.710345 time per success: 74.4502 (7668.38 sec)
+Timer: at Thu Jan 18 01:53:32 2024: successes: 103, attemps: 145: prob: 0.710345 time per success: 74.5474 (7678.39 sec)
+Timer: at Thu Jan 18 01:53:42 2024: successes: 103, attemps: 145: prob: 0.710345 time per success: 74.6446 (7688.4 sec)
+Timer: at Thu Jan 18 01:53:52 2024: successes: 103, attemps: 145: prob: 0.710345 time per success: 74.7418 (7698.41 sec)
+Timer: at Thu Jan 18 01:54:02 2024: successes: 103, attemps: 145: prob: 0.710345 time per success: 74.839 (7708.42 sec)
+Timer: at Thu Jan 18 01:54:12 2024: successes: 103, attemps: 145: prob: 0.710345 time per success: 74.9362 (7718.43 sec)
+Timer: at Thu Jan 18 01:54:22 2024: successes: 103, attemps: 145: prob: 0.710345 time per success: 75.0334 (7728.44 sec)
+Timer: at Thu Jan 18 01:54:32 2024: successes: 103, attemps: 145: prob: 0.710345 time per success: 75.1306 (7738.45 sec)
+Timer: at Thu Jan 18 01:54:42 2024: successes: 103, attemps: 145: prob: 0.710345 time per success: 75.2277 (7748.46 sec)
+Timer: at Thu Jan 18 01:54:52 2024: successes: 103, attemps: 145: prob: 0.710345 time per success: 75.3249 (7758.47 sec)
+Timer: at Thu Jan 18 01:55:02 2024: successes: 103, attemps: 145: prob: 0.710345 time per success: 75.4221 (7768.48 sec)
+SUCCESS: worker 14: starting from conf_index 681 and seed 1705535268
+Enough processes are started. Worker 14 returning
+Timer: at Thu Jan 18 01:55:12 2024: successes: 104, attemps: 145: prob: 0.717241 time per success: 74.7932 (7778.49 sec)
+Timer: at Thu Jan 18 01:55:22 2024: successes: 104, attemps: 145: prob: 0.717241 time per success: 74.8894 (7788.5 sec)
+SUCCESS: worker 13: starting from conf_index 755 and seed 1705535276
+Enough processes are started. Worker 13 returning
+Timer: at Thu Jan 18 01:55:32 2024: successes: 105, attemps: 145: prob: 0.724138 time per success: 74.2715 (7798.51 sec)
+Timer: at Thu Jan 18 01:55:42 2024: successes: 105, attemps: 145: prob: 0.724138 time per success: 74.3668 (7808.52 sec)
+Timer: at Thu Jan 18 01:55:52 2024: successes: 105, attemps: 145: prob: 0.724138 time per success: 74.4622 (7818.53 sec)
+Timer: at Thu Jan 18 01:56:02 2024: successes: 105, attemps: 145: prob: 0.724138 time per success: 74.5575 (7828.54 sec)
+Timer: at Thu Jan 18 01:56:12 2024: successes: 105, attemps: 145: prob: 0.724138 time per success: 74.6529 (7838.55 sec)
+Timer: at Thu Jan 18 01:56:22 2024: successes: 105, attemps: 145: prob: 0.724138 time per success: 74.7482 (7848.56 sec)
+Timer: at Thu Jan 18 01:56:32 2024: successes: 105, attemps: 145: prob: 0.724138 time per success: 74.8435 (7858.57 sec)
+SUCCESS: worker 7: starting from conf_index 73 and seed 1705535253
+Enough processes are started. Worker 7 returning
+Timer: at Thu Jan 18 01:56:42 2024: successes: 106, attemps: 145: prob: 0.731034 time per success: 74.2319 (7868.58 sec)
+Timer: at Thu Jan 18 01:56:52 2024: successes: 106, attemps: 145: prob: 0.731034 time per success: 74.3263 (7878.59 sec)
+SUCCESS: worker 2: starting from conf_index 869 and seed 1705535262
+Enough processes are started. Worker 2 returning
+Timer: at Thu Jan 18 01:57:02 2024: successes: 107, attemps: 145: prob: 0.737931 time per success: 73.7252 (7888.6 sec)
+Timer: at Thu Jan 18 01:57:12 2024: successes: 107, attemps: 145: prob: 0.737931 time per success: 73.8188 (7898.61 sec)
+Timer: at Thu Jan 18 01:57:22 2024: successes: 107, attemps: 145: prob: 0.737931 time per success: 73.9124 (7908.62 sec)
+Timer: at Thu Jan 18 01:57:32 2024: successes: 107, attemps: 145: prob: 0.737931 time per success: 74.0059 (7918.63 sec)
+Timer: at Thu Jan 18 01:57:42 2024: successes: 107, attemps: 145: prob: 0.737931 time per success: 74.0995 (7928.64 sec)
+Timer: at Thu Jan 18 01:57:52 2024: successes: 107, attemps: 145: prob: 0.737931 time per success: 74.193 (7938.65 sec)
+SUCCESS: worker 15: starting from conf_index 52 and seed 1705535250
+Enough processes are started. Worker 15 returning
+Timer: at Thu Jan 18 01:58:02 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 73.5987 (7948.66 sec)
+Timer: at Thu Jan 18 01:58:12 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 73.6914 (7958.67 sec)
+Timer: at Thu Jan 18 01:58:22 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 73.7841 (7968.68 sec)
+Timer: at Thu Jan 18 01:58:32 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 73.8767 (7978.69 sec)
+Timer: at Thu Jan 18 01:58:42 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 73.9694 (7988.7 sec)
+Timer: at Thu Jan 18 01:58:52 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 74.0621 (7998.71 sec)
+Timer: at Thu Jan 18 01:59:02 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 74.1548 (8008.72 sec)
+Timer: at Thu Jan 18 01:59:12 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 74.2475 (8018.73 sec)
+Timer: at Thu Jan 18 01:59:22 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 74.3402 (8028.74 sec)
+Timer: at Thu Jan 18 01:59:32 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 74.4329 (8038.75 sec)
+Timer: at Thu Jan 18 01:59:42 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 74.5255 (8048.76 sec)
+Timer: at Thu Jan 18 01:59:52 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 74.6182 (8058.77 sec)
+Timer: at Thu Jan 18 02:00:02 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 74.7109 (8068.78 sec)
+Timer: at Thu Jan 18 02:00:12 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 74.8036 (8078.79 sec)
+Timer: at Thu Jan 18 02:00:22 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 74.8963 (8088.8 sec)
+Timer: at Thu Jan 18 02:00:32 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 74.989 (8098.81 sec)
+Timer: at Thu Jan 18 02:00:42 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 75.0817 (8108.82 sec)
+Timer: at Thu Jan 18 02:00:52 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 75.1744 (8118.83 sec)
+Timer: at Thu Jan 18 02:01:02 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 75.267 (8128.84 sec)
+Timer: at Thu Jan 18 02:01:12 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 75.3597 (8138.85 sec)
+Timer: at Thu Jan 18 02:01:22 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 75.4524 (8148.86 sec)
+Timer: at Thu Jan 18 02:01:32 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 75.5451 (8158.87 sec)
+Timer: at Thu Jan 18 02:01:42 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 75.6378 (8168.88 sec)
+Timer: at Thu Jan 18 02:01:52 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 75.7305 (8178.89 sec)
+Timer: at Thu Jan 18 02:02:02 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 75.8232 (8188.9 sec)
+Timer: at Thu Jan 18 02:02:12 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 75.9159 (8198.91 sec)
+Timer: at Thu Jan 18 02:02:22 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 76.0085 (8208.92 sec)
+Timer: at Thu Jan 18 02:02:32 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 76.1012 (8218.93 sec)
+Timer: at Thu Jan 18 02:02:42 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 76.1939 (8228.94 sec)
+Timer: at Thu Jan 18 02:02:52 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 76.2866 (8238.95 sec)
+Timer: at Thu Jan 18 02:03:02 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 76.3793 (8248.96 sec)
+Timer: at Thu Jan 18 02:03:12 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 76.472 (8258.97 sec)
+Timer: at Thu Jan 18 02:03:22 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 76.5647 (8268.98 sec)
+Timer: at Thu Jan 18 02:03:32 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 76.6573 (8278.99 sec)
+Timer: at Thu Jan 18 02:03:42 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 76.75 (8289 sec)
+Timer: at Thu Jan 18 02:03:52 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 76.8427 (8299.01 sec)
+Timer: at Thu Jan 18 02:04:02 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 76.9354 (8309.02 sec)
+Timer: at Thu Jan 18 02:04:12 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 77.0281 (8319.03 sec)
+Timer: at Thu Jan 18 02:04:22 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 77.1208 (8329.04 sec)
+Timer: at Thu Jan 18 02:04:32 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 77.2134 (8339.05 sec)
+Timer: at Thu Jan 18 02:04:42 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 77.3061 (8349.06 sec)
+Timer: at Thu Jan 18 02:04:52 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 77.3988 (8359.07 sec)
+Timer: at Thu Jan 18 02:05:02 2024: successes: 108, attemps: 145: prob: 0.744828 time per success: 77.4915 (8369.08 sec)
+SUCCESS: worker 6: starting from conf_index 104 and seed 1705535264
+Enough processes are started. Worker 6 returning
+Timer: at Thu Jan 18 02:05:12 2024: successes: 109, attemps: 145: prob: 0.751724 time per success: 76.8724 (8379.09 sec)
+SUCCESS: worker 4: starting from conf_index 547 and seed 1705535257
+Enough processes are started. Worker 4 returning
+Timer: at Thu Jan 18 02:05:22 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 76.2646 (8389.1 sec)
+Timer: at Thu Jan 18 02:05:32 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 76.3556 (8399.11 sec)
+Timer: at Thu Jan 18 02:05:42 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 76.4466 (8409.12 sec)
+Timer: at Thu Jan 18 02:05:52 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 76.5376 (8419.13 sec)
+Timer: at Thu Jan 18 02:06:02 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 76.6286 (8429.14 sec)
+Timer: at Thu Jan 18 02:06:12 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 76.7196 (8439.15 sec)
+Timer: at Thu Jan 18 02:06:23 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 76.8106 (8449.16 sec)
+Timer: at Thu Jan 18 02:06:33 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 76.9016 (8459.17 sec)
+Timer: at Thu Jan 18 02:06:43 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 76.9926 (8469.19 sec)
+Timer: at Thu Jan 18 02:06:53 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 77.0836 (8479.2 sec)
+Timer: at Thu Jan 18 02:07:03 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 77.1746 (8489.21 sec)
+Timer: at Thu Jan 18 02:07:13 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 77.2656 (8499.22 sec)
+Timer: at Thu Jan 18 02:07:23 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 77.3566 (8509.23 sec)
+Timer: at Thu Jan 18 02:07:33 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 77.4476 (8519.24 sec)
+Timer: at Thu Jan 18 02:07:43 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 77.5386 (8529.25 sec)
+Timer: at Thu Jan 18 02:07:53 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 77.6296 (8539.26 sec)
+Timer: at Thu Jan 18 02:08:03 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 77.7206 (8549.27 sec)
+Timer: at Thu Jan 18 02:08:13 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 77.8116 (8559.28 sec)
+FAILURE: worker 11: starting from conf_index 180 and seed 1705535271
+Enough processes are started. Worker 11 returning
+Timer: at Thu Jan 18 02:08:23 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 77.9026 (8569.29 sec)
+Timer: at Thu Jan 18 02:08:33 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 77.9936 (8579.3 sec)
+Timer: at Thu Jan 18 02:08:43 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 78.0846 (8589.31 sec)
+Timer: at Thu Jan 18 02:08:53 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 78.1756 (8599.32 sec)
+Timer: at Thu Jan 18 02:09:03 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 78.2666 (8609.33 sec)
+Timer: at Thu Jan 18 02:09:13 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 78.3576 (8619.34 sec)
+FAILURE: worker 8: starting from conf_index 295 and seed 1705535278
+Enough processes are started. Worker 8 returning
+Timer: at Thu Jan 18 02:09:23 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 78.4486 (8629.35 sec)
+Timer: at Thu Jan 18 02:09:33 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 78.5396 (8639.36 sec)
+Timer: at Thu Jan 18 02:09:43 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 78.6306 (8649.37 sec)
+Timer: at Thu Jan 18 02:09:53 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 78.7216 (8659.38 sec)
+Timer: at Thu Jan 18 02:10:03 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 78.8126 (8669.39 sec)
+Timer: at Thu Jan 18 02:10:13 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 78.9036 (8679.4 sec)
+Timer: at Thu Jan 18 02:10:23 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 78.9946 (8689.41 sec)
+Timer: at Thu Jan 18 02:10:33 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 79.0856 (8699.42 sec)
+Timer: at Thu Jan 18 02:10:43 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 79.1766 (8709.43 sec)
+Timer: at Thu Jan 18 02:10:53 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 79.2676 (8719.44 sec)
+Timer: at Thu Jan 18 02:11:03 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 79.3587 (8729.45 sec)
+Timer: at Thu Jan 18 02:11:13 2024: successes: 110, attemps: 145: prob: 0.758621 time per success: 79.4497 (8739.46 sec)
+SUCCESS: worker 19: starting from conf_index 446 and seed 1705535277
+Enough processes are started. Worker 19 returning
+Timer: at Thu Jan 18 02:11:23 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 78.8241 (8749.47 sec)
+Timer: at Thu Jan 18 02:11:33 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 78.9143 (8759.48 sec)
+Timer: at Thu Jan 18 02:11:43 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 79.0044 (8769.49 sec)
+Timer: at Thu Jan 18 02:11:53 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 79.0946 (8779.5 sec)
+Timer: at Thu Jan 18 02:12:03 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 79.1848 (8789.51 sec)
+Timer: at Thu Jan 18 02:12:13 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 79.275 (8799.52 sec)
+Timer: at Thu Jan 18 02:12:23 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 79.3652 (8809.53 sec)
+Timer: at Thu Jan 18 02:12:33 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 79.4554 (8819.54 sec)
+Timer: at Thu Jan 18 02:12:43 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 79.5455 (8829.55 sec)
+Timer: at Thu Jan 18 02:12:53 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 79.6357 (8839.56 sec)
+Timer: at Thu Jan 18 02:13:03 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 79.7259 (8849.57 sec)
+Timer: at Thu Jan 18 02:13:13 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 79.8161 (8859.58 sec)
+Timer: at Thu Jan 18 02:13:23 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 79.9063 (8869.6 sec)
+Timer: at Thu Jan 18 02:13:33 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 79.9964 (8879.61 sec)
+Timer: at Thu Jan 18 02:13:43 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 80.0866 (8889.62 sec)
+Timer: at Thu Jan 18 02:13:53 2024: successes: 111, attemps: 145: prob: 0.765517 time per success: 80.1768 (8899.63 sec)
+SUCCESS: worker 18: starting from conf_index 910 and seed 1705535252
+Enough processes are started. Worker 18 returning
+Timer: at Thu Jan 18 02:14:03 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 79.5503 (8909.64 sec)
+Timer: at Thu Jan 18 02:14:13 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 79.6397 (8919.65 sec)
+Timer: at Thu Jan 18 02:14:23 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 79.7291 (8929.66 sec)
+Timer: at Thu Jan 18 02:14:33 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 79.8185 (8939.67 sec)
+Timer: at Thu Jan 18 02:14:43 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 79.9078 (8949.68 sec)
+Timer: at Thu Jan 18 02:14:53 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 79.9971 (8959.68 sec)
+Timer: at Thu Jan 18 02:15:03 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 80.0865 (8969.69 sec)
+Timer: at Thu Jan 18 02:15:13 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 80.1759 (8979.7 sec)
+Timer: at Thu Jan 18 02:15:23 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 80.2653 (8989.71 sec)
+Timer: at Thu Jan 18 02:15:33 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 80.3546 (8999.72 sec)
+Timer: at Thu Jan 18 02:15:43 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 80.444 (9009.73 sec)
+Timer: at Thu Jan 18 02:15:53 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 80.5334 (9019.74 sec)
+Timer: at Thu Jan 18 02:16:03 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 80.6228 (9029.75 sec)
+Timer: at Thu Jan 18 02:16:13 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 80.7122 (9039.76 sec)
+Timer: at Thu Jan 18 02:16:23 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 80.8015 (9049.77 sec)
+Timer: at Thu Jan 18 02:16:33 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 80.8909 (9059.78 sec)
+Timer: at Thu Jan 18 02:16:43 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 80.9803 (9069.79 sec)
+Timer: at Thu Jan 18 02:16:53 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 81.0697 (9079.8 sec)
+Timer: at Thu Jan 18 02:17:03 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 81.159 (9089.81 sec)
+Timer: at Thu Jan 18 02:17:13 2024: successes: 112, attemps: 145: prob: 0.772414 time per success: 81.2484 (9099.82 sec)
+SUCCESS: worker 1: starting from conf_index 735 and seed 1705535272
+Enough processes are started. Worker 1 returning
+Timer: at Thu Jan 18 02:17:23 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 80.618 (9109.83 sec)
+Timer: at Thu Jan 18 02:17:33 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 80.7066 (9119.84 sec)
+Timer: at Thu Jan 18 02:17:43 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 80.7952 (9129.85 sec)
+Timer: at Thu Jan 18 02:17:53 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 80.8837 (9139.86 sec)
+Timer: at Thu Jan 18 02:18:03 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 80.9723 (9149.87 sec)
+Timer: at Thu Jan 18 02:18:13 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 81.0609 (9159.88 sec)
+Timer: at Thu Jan 18 02:18:23 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 81.1495 (9169.89 sec)
+Timer: at Thu Jan 18 02:18:33 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 81.2381 (9179.9 sec)
+Timer: at Thu Jan 18 02:18:43 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 81.3267 (9189.91 sec)
+Timer: at Thu Jan 18 02:18:53 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 81.4153 (9199.92 sec)
+Timer: at Thu Jan 18 02:19:03 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 81.5039 (9209.94 sec)
+Timer: at Thu Jan 18 02:19:13 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 81.5924 (9219.95 sec)
+Timer: at Thu Jan 18 02:19:23 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 81.681 (9229.96 sec)
+Timer: at Thu Jan 18 02:19:33 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 81.7696 (9239.97 sec)
+Timer: at Thu Jan 18 02:19:43 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 81.8582 (9249.98 sec)
+Timer: at Thu Jan 18 02:19:53 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 81.9468 (9259.99 sec)
+Timer: at Thu Jan 18 02:20:03 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 82.0354 (9270 sec)
+Timer: at Thu Jan 18 02:20:13 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 82.124 (9280.01 sec)
+Timer: at Thu Jan 18 02:20:23 2024: successes: 113, attemps: 145: prob: 0.77931 time per success: 82.2125 (9290.02 sec)
+SUCCESS: worker 5: starting from conf_index 818 and seed 1705535275
+Enough processes are started. Worker 5 returning
+Timer: at Thu Jan 18 02:20:33 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 81.5792 (9300.03 sec)
+Timer: at Thu Jan 18 02:20:43 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 81.667 (9310.04 sec)
+Timer: at Thu Jan 18 02:20:53 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 81.7548 (9320.05 sec)
+Timer: at Thu Jan 18 02:21:03 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 81.8426 (9330.06 sec)
+Timer: at Thu Jan 18 02:21:13 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 81.9304 (9340.07 sec)
+Timer: at Thu Jan 18 02:21:23 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 82.0182 (9350.08 sec)
+Timer: at Thu Jan 18 02:21:33 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 82.106 (9360.09 sec)
+Timer: at Thu Jan 18 02:21:43 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 82.1938 (9370.1 sec)
+Timer: at Thu Jan 18 02:21:53 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 82.2817 (9380.11 sec)
+Timer: at Thu Jan 18 02:22:03 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 82.3695 (9390.12 sec)
+Timer: at Thu Jan 18 02:22:13 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 82.4573 (9400.13 sec)
+Timer: at Thu Jan 18 02:22:23 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 82.5451 (9410.14 sec)
+Timer: at Thu Jan 18 02:22:33 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 82.6329 (9420.15 sec)
+Timer: at Thu Jan 18 02:22:44 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 82.7207 (9430.16 sec)
+Timer: at Thu Jan 18 02:22:54 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 82.8085 (9440.17 sec)
+Timer: at Thu Jan 18 02:23:04 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 82.8963 (9450.18 sec)
+Timer: at Thu Jan 18 02:23:14 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 82.9841 (9460.19 sec)
+Timer: at Thu Jan 18 02:23:24 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 83.0719 (9470.2 sec)
+Timer: at Thu Jan 18 02:23:34 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 83.1598 (9480.21 sec)
+Timer: at Thu Jan 18 02:23:44 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 83.2476 (9490.22 sec)
+Timer: at Thu Jan 18 02:23:54 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 83.3354 (9500.23 sec)
+Timer: at Thu Jan 18 02:24:04 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 83.4232 (9510.24 sec)
+Timer: at Thu Jan 18 02:24:14 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 83.511 (9520.25 sec)
+Timer: at Thu Jan 18 02:24:24 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 83.5988 (9530.26 sec)
+Timer: at Thu Jan 18 02:24:34 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 83.6866 (9540.27 sec)
+Timer: at Thu Jan 18 02:24:44 2024: successes: 114, attemps: 145: prob: 0.786207 time per success: 83.7744 (9550.28 sec)
+SUCCESS: worker 16: starting from conf_index 485 and seed 1705535243
+Enough processes are started. Worker 16 returning
+Timer: at Thu Jan 18 02:24:54 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 83.133 (9560.29 sec)
+Timer: at Thu Jan 18 02:25:04 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 83.22 (9570.3 sec)
+Timer: at Thu Jan 18 02:25:14 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 83.307 (9580.31 sec)
+Timer: at Thu Jan 18 02:25:24 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 83.3941 (9590.32 sec)
+Timer: at Thu Jan 18 02:25:34 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 83.4811 (9600.33 sec)
+Timer: at Thu Jan 18 02:25:44 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 83.5681 (9610.34 sec)
+Timer: at Thu Jan 18 02:25:54 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 83.6552 (9620.35 sec)
+Timer: at Thu Jan 18 02:26:04 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 83.7422 (9630.36 sec)
+Timer: at Thu Jan 18 02:26:14 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 83.8293 (9640.37 sec)
+Timer: at Thu Jan 18 02:26:24 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 83.9163 (9650.38 sec)
+Timer: at Thu Jan 18 02:26:34 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 84.0033 (9660.38 sec)
+Timer: at Thu Jan 18 02:26:44 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 84.0903 (9670.38 sec)
+Timer: at Thu Jan 18 02:26:54 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 84.1773 (9680.39 sec)
+Timer: at Thu Jan 18 02:27:04 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 84.2644 (9690.4 sec)
+Timer: at Thu Jan 18 02:27:14 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 84.3514 (9700.41 sec)
+Timer: at Thu Jan 18 02:27:24 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 84.4385 (9710.42 sec)
+Timer: at Thu Jan 18 02:27:34 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 84.5255 (9720.43 sec)
+Timer: at Thu Jan 18 02:27:44 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 84.6126 (9730.44 sec)
+Timer: at Thu Jan 18 02:27:54 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 84.6996 (9740.45 sec)
+Timer: at Thu Jan 18 02:28:04 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 84.7866 (9750.46 sec)
+Timer: at Thu Jan 18 02:28:14 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 84.8737 (9760.47 sec)
+Timer: at Thu Jan 18 02:28:24 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 84.9607 (9770.48 sec)
+Timer: at Thu Jan 18 02:28:34 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 85.0478 (9780.49 sec)
+Timer: at Thu Jan 18 02:28:44 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 85.1348 (9790.5 sec)
+Timer: at Thu Jan 18 02:28:54 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 85.2219 (9800.51 sec)
+Timer: at Thu Jan 18 02:29:04 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 85.3089 (9810.53 sec)
+Timer: at Thu Jan 18 02:29:14 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 85.396 (9820.54 sec)
+Timer: at Thu Jan 18 02:29:24 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 85.483 (9830.55 sec)
+Timer: at Thu Jan 18 02:29:34 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 85.5701 (9840.56 sec)
+Timer: at Thu Jan 18 02:29:44 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 85.6571 (9850.57 sec)
+Timer: at Thu Jan 18 02:29:54 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 85.7441 (9860.58 sec)
+Timer: at Thu Jan 18 02:30:04 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 85.8312 (9870.59 sec)
+Timer: at Thu Jan 18 02:30:14 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 85.9182 (9880.6 sec)
+Timer: at Thu Jan 18 02:30:24 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 86.0053 (9890.61 sec)
+Timer: at Thu Jan 18 02:30:34 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 86.0923 (9900.62 sec)
+Timer: at Thu Jan 18 02:30:44 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 86.1794 (9910.63 sec)
+Timer: at Thu Jan 18 02:30:54 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 86.2664 (9920.64 sec)
+Timer: at Thu Jan 18 02:31:04 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 86.3535 (9930.65 sec)
+Timer: at Thu Jan 18 02:31:14 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 86.4405 (9940.66 sec)
+Timer: at Thu Jan 18 02:31:24 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 86.5276 (9950.67 sec)
+Timer: at Thu Jan 18 02:31:34 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 86.6146 (9960.68 sec)
+Timer: at Thu Jan 18 02:31:44 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 86.7016 (9970.69 sec)
+Timer: at Thu Jan 18 02:31:54 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 86.7887 (9980.7 sec)
+Timer: at Thu Jan 18 02:32:04 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 86.8757 (9990.71 sec)
+Timer: at Thu Jan 18 02:32:14 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 86.9628 (10000.7 sec)
+Timer: at Thu Jan 18 02:32:24 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 87.0498 (10010.7 sec)
+Timer: at Thu Jan 18 02:32:34 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 87.1369 (10020.7 sec)
+Timer: at Thu Jan 18 02:32:44 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 87.2239 (10030.7 sec)
+Timer: at Thu Jan 18 02:32:54 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 87.3109 (10040.8 sec)
+Timer: at Thu Jan 18 02:33:04 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 87.398 (10050.8 sec)
+Timer: at Thu Jan 18 02:33:14 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 87.485 (10060.8 sec)
+Timer: at Thu Jan 18 02:33:24 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 87.5721 (10070.8 sec)
+Timer: at Thu Jan 18 02:33:34 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 87.6591 (10080.8 sec)
+Timer: at Thu Jan 18 02:33:44 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 87.7462 (10090.8 sec)
+Timer: at Thu Jan 18 02:33:54 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 87.8332 (10100.8 sec)
+Timer: at Thu Jan 18 02:34:04 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 87.9203 (10110.8 sec)
+Timer: at Thu Jan 18 02:34:14 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 88.0073 (10120.8 sec)
+Timer: at Thu Jan 18 02:34:24 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 88.0944 (10130.9 sec)
+Timer: at Thu Jan 18 02:34:34 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 88.1814 (10140.9 sec)
+Timer: at Thu Jan 18 02:34:44 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 88.2684 (10150.9 sec)
+Timer: at Thu Jan 18 02:34:54 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 88.3555 (10160.9 sec)
+Timer: at Thu Jan 18 02:35:04 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 88.4425 (10170.9 sec)
+Timer: at Thu Jan 18 02:35:14 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 88.5296 (10180.9 sec)
+Timer: at Thu Jan 18 02:35:24 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 88.6166 (10190.9 sec)
+Timer: at Thu Jan 18 02:35:34 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 88.7037 (10200.9 sec)
+Timer: at Thu Jan 18 02:35:44 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 88.7907 (10210.9 sec)
+Timer: at Thu Jan 18 02:35:54 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 88.8778 (10220.9 sec)
+Timer: at Thu Jan 18 02:36:04 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 88.9648 (10231 sec)
+Timer: at Thu Jan 18 02:36:14 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 89.0519 (10241 sec)
+Timer: at Thu Jan 18 02:36:24 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 89.1389 (10251 sec)
+Timer: at Thu Jan 18 02:36:34 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 89.2259 (10261 sec)
+Timer: at Thu Jan 18 02:36:44 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 89.313 (10271 sec)
+Timer: at Thu Jan 18 02:36:54 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 89.4 (10281 sec)
+Timer: at Thu Jan 18 02:37:04 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 89.4871 (10291 sec)
+Timer: at Thu Jan 18 02:37:14 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 89.5741 (10301 sec)
+Timer: at Thu Jan 18 02:37:24 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 89.6612 (10311 sec)
+Timer: at Thu Jan 18 02:37:34 2024: successes: 115, attemps: 145: prob: 0.793103 time per success: 89.7482 (10321 sec)
+SUCCESS: worker 10: starting from conf_index 707 and seed 1705535254
+Enough processes are started. Worker 10 returning
+Terminating timer
+## log of successes probabilities from each starting conf
+conf_index nsuccesses nattempts prob
+  0      0      0   NA
+  1      0      0   NA
+  2      0      0   NA
+  3      0      0   NA
+  4      0      0   NA
+  5      0      0   NA
+  6      0      0   NA
+  7      0      0   NA
+  8      0      0   NA
+  9      0      0   NA
+ 10      0      0   NA
+ 11      1      1   1
+ 12      0      0   NA
+ 13      0      0   NA
+ 14      0      0   NA
+ 15      0      0   NA
+ 16      0      0   NA
+ 17      0      0   NA
+ 18      0      0   NA
+ 19      0      0   NA
+ 20      0      0   NA
+ 21      0      0   NA
+ 22      0      0   NA
+ 23      0      0   NA
+ 24      0      0   NA
+ 25      0      0   NA
+ 26      0      0   NA
+ 27      0      0   NA
+ 28      0      0   NA
+ 29      0      0   NA
+ 30      0      0   NA
+ 31      0      0   NA
+ 32      0      0   NA
+ 33      0      0   NA
+ 34      0      0   NA
+ 35      0      0   NA
+ 36      0      0   NA
+ 37      0      0   NA
+ 38      1      1   1
+ 39      0      1   0
+ 40      0      0   NA
+ 41      0      0   NA
+ 42      0      0   NA
+ 43      0      0   NA
+ 44      0      0   NA
+ 45      0      0   NA
+ 46      0      0   NA
+ 47      0      0   NA
+ 48      0      0   NA
+ 49      0      0   NA
+ 50      0      0   NA
+ 51      0      0   NA
+ 52      2      2   1
+ 53      0      0   NA
+ 54      0      0   NA
+ 55      0      0   NA
+ 56      0      0   NA
+ 57      0      0   NA
+ 58      0      0   NA
+ 59      0      0   NA
+ 60      0      0   NA
+ 61      0      0   NA
+ 62      0      0   NA
+ 63      0      0   NA
+ 64      0      0   NA
+ 65      0      0   NA
+ 66      0      0   NA
+ 67      0      0   NA
+ 68      0      0   NA
+ 69      0      0   NA
+ 70      0      0   NA
+ 71      0      0   NA
+ 72      0      0   NA
+ 73      1      1   1
+ 74      1      1   1
+ 75      0      0   NA
+ 76      0      0   NA
+ 77      0      0   NA
+ 78      0      0   NA
+ 79      0      0   NA
+ 80      0      0   NA
+ 81      0      0   NA
+ 82      0      0   NA
+ 83      0      0   NA
+ 84      0      0   NA
+ 85      0      0   NA
+ 86      0      0   NA
+ 87      0      0   NA
+ 88      0      0   NA
+ 89      0      0   NA
+ 90      0      0   NA
+ 91      0      0   NA
+ 92      1      1   1
+ 93      1      1   1
+ 94      1      1   1
+ 95      0      0   NA
+ 96      0      0   NA
+ 97      0      0   NA
+ 98      0      0   NA
+ 99      1      1   1
+100      0      0   NA
+101      0      0   NA
+102      0      0   NA
+103      0      0   NA
+104      1      1   1
+105      0      0   NA
+106      0      0   NA
+107      0      0   NA
+108      0      1   0
+109      0      0   NA
+110      0      0   NA
+111      1      1   1
+112      0      0   NA
+113      1      1   1
+114      0      0   NA
+115      0      0   NA
+116      0      0   NA
+117      1      1   1
+118      0      0   NA
+119      0      0   NA
+120      0      0   NA
+121      1      1   1
+122      0      0   NA
+123      0      0   NA
+124      0      0   NA
+125      0      0   NA
+126      0      0   NA
+127      0      0   NA
+128      0      0   NA
+129      0      0   NA
+130      0      0   NA
+131      0      0   NA
+132      0      0   NA
+133      0      0   NA
+134      0      0   NA
+135      0      0   NA
+136      0      0   NA
+137      0      0   NA
+138      0      0   NA
+139      0      0   NA
+140      0      0   NA
+141      0      0   NA
+142      0      0   NA
+143      0      0   NA
+144      0      0   NA
+145      0      0   NA
+146      0      0   NA
+147      0      0   NA
+148      0      0   NA
+149      0      0   NA
+150      0      0   NA
+151      1      1   1
+152      0      0   NA
+153      0      0   NA
+154      0      0   NA
+155      0      0   NA
+156      0      0   NA
+157      0      0   NA
+158      0      0   NA
+159      0      0   NA
+160      0      0   NA
+161      1      1   1
+162      0      0   NA
+163      0      0   NA
+164      0      0   NA
+165      0      0   NA
+166      0      0   NA
+167      1      1   1
+168      0      0   NA
+169      0      0   NA
+170      0      0   NA
+171      0      0   NA
+172      0      0   NA
+173      0      0   NA
+174      1      1   1
+175      0      0   NA
+176      1      1   1
+177      0      0   NA
+178      0      0   NA
+179      0      0   NA
+180      0      1   0
+181      1      1   1
+182      1      2   0.5
+183      0      0   NA
+184      0      0   NA
+185      0      0   NA
+186      0      0   NA
+187      0      0   NA
+188      0      0   NA
+189      0      0   NA
+190      0      0   NA
+191      0      0   NA
+192      0      0   NA
+193      1      1   1
+194      0      0   NA
+195      0      0   NA
+196      0      0   NA
+197      0      0   NA
+198      0      0   NA
+199      0      0   NA
+200      0      0   NA
+201      0      0   NA
+202      0      0   NA
+203      0      0   NA
+204      0      0   NA
+205      1      1   1
+206      1      1   1
+207      0      0   NA
+208      0      0   NA
+209      0      1   0
+210      0      1   0
+211      0      0   NA
+212      0      0   NA
+213      0      0   NA
+214      0      0   NA
+215      0      0   NA
+216      0      0   NA
+217      1      1   1
+218      0      0   NA
+219      0      1   0
+220      1      1   1
+221      1      1   1
+222      0      0   NA
+223      0      0   NA
+224      1      1   1
+225      0      0   NA
+226      0      0   NA
+227      0      0   NA
+228      1      1   1
+229      0      0   NA
+230      0      0   NA
+231      0      0   NA
+232      1      1   1
+233      1      1   1
+234      0      0   NA
+235      0      0   NA
+236      0      0   NA
+237      1      1   1
+238      0      0   NA
+239      0      0   NA
+240      0      0   NA
+241      0      0   NA
+242      0      0   NA
+243      0      0   NA
+244      0      0   NA
+245      0      0   NA
+246      0      0   NA
+247      0      0   NA
+248      0      0   NA
+249      0      0   NA
+250      0      0   NA
+251      0      0   NA
+252      0      0   NA
+253      0      0   NA
+254      0      0   NA
+255      0      1   0
+256      0      0   NA
+257      0      0   NA
+258      0      0   NA
+259      0      0   NA
+260      0      0   NA
+261      0      0   NA
+262      0      1   0
+263      0      0   NA
+264      0      0   NA
+265      0      0   NA
+266      0      0   NA
+267      0      0   NA
+268      0      0   NA
+269      0      0   NA
+270      0      0   NA
+271      0      0   NA
+272      0      0   NA
+273      0      0   NA
+274      0      0   NA
+275      0      0   NA
+276      0      0   NA
+277      0      0   NA
+278      0      0   NA
+279      0      0   NA
+280      0      0   NA
+281      0      0   NA
+282      0      0   NA
+283      0      0   NA
+284      0      0   NA
+285      0      0   NA
+286      0      0   NA
+287      0      0   NA
+288      0      0   NA
+289      0      0   NA
+290      0      0   NA
+291      0      0   NA
+292      0      0   NA
+293      0      0   NA
+294      1      1   1
+295      0      1   0
+296      0      0   NA
+297      0      0   NA
+298      0      0   NA
+299      0      0   NA
+300      0      0   NA
+301      0      0   NA
+302      0      0   NA
+303      0      0   NA
+304      0      0   NA
+305      1      1   1
+306      0      0   NA
+307      0      0   NA
+308      0      0   NA
+309      0      0   NA
+310      1      1   1
+311      0      0   NA
+312      0      0   NA
+313      0      0   NA
+314      0      0   NA
+315      0      0   NA
+316      0      0   NA
+317      0      0   NA
+318      1      2   0.5
+319      0      0   NA
+320      0      0   NA
+321      0      0   NA
+322      0      0   NA
+323      0      0   NA
+324      0      0   NA
+325      0      0   NA
+326      0      0   NA
+327      0      0   NA
+328      0      0   NA
+329      0      0   NA
+330      1      1   1
+331      0      0   NA
+332      0      0   NA
+333      1      1   1
+334      0      0   NA
+335      0      0   NA
+336      2      2   1
+337      0      0   NA
+338      0      0   NA
+339      0      0   NA
+340      0      0   NA
+341      0      0   NA
+342      0      0   NA
+343      0      0   NA
+344      0      0   NA
+345      0      0   NA
+346      0      0   NA
+347      0      0   NA
+348      0      0   NA
+349      0      0   NA
+350      0      0   NA
+351      0      0   NA
+352      0      0   NA
+353      0      0   NA
+354      1      1   1
+355      0      0   NA
+356      0      0   NA
+357      0      0   NA
+358      0      0   NA
+359      0      0   NA
+360      0      0   NA
+361      0      0   NA
+362      0      0   NA
+363      0      0   NA
+364      2      2   1
+365      0      0   NA
+366      0      0   NA
+367      0      0   NA
+368      0      0   NA
+369      0      0   NA
+370      0      0   NA
+371      0      0   NA
+372      0      0   NA
+373      0      0   NA
+374      0      0   NA
+375      0      0   NA
+376      0      0   NA
+377      0      0   NA
+378      0      0   NA
+379      0      0   NA
+380      0      0   NA
+381      0      1   0
+382      0      0   NA
+383      0      0   NA
+384      0      0   NA
+385      0      0   NA
+386      0      0   NA
+387      0      0   NA
+388      0      0   NA
+389      0      0   NA
+390      0      0   NA
+391      0      0   NA
+392      0      0   NA
+393      1      1   1
+394      0      0   NA
+395      0      0   NA
+396      0      0   NA
+397      0      0   NA
+398      0      0   NA
+399      0      0   NA
+400      0      0   NA
+401      0      0   NA
+402      0      0   NA
+403      0      0   NA
+404      1      1   1
+405      1      1   1
+406      0      0   NA
+407      0      0   NA
+408      0      0   NA
+409      0      0   NA
+410      1      1   1
+411      0      1   0
+412      0      0   NA
+413      0      0   NA
+414      0      0   NA
+415      0      0   NA
+416      1      1   1
+417      0      0   NA
+418      0      0   NA
+419      0      0   NA
+420      0      0   NA
+421      0      0   NA
+422      0      0   NA
+423      0      0   NA
+424      0      0   NA
+425      0      0   NA
+426      0      0   NA
+427      1      1   1
+428      0      0   NA
+429      0      0   NA
+430      0      0   NA
+431      0      0   NA
+432      0      0   NA
+433      0      0   NA
+434      0      0   NA
+435      0      0   NA
+436      0      0   NA
+437      0      0   NA
+438      0      0   NA
+439      0      0   NA
+440      0      0   NA
+441      0      0   NA
+442      0      0   NA
+443      0      0   NA
+444      0      0   NA
+445      0      0   NA
+446      1      1   1
+447      0      0   NA
+448      0      0   NA
+449      0      0   NA
+450      0      0   NA
+451      0      0   NA
+452      0      0   NA
+453      0      0   NA
+454      0      0   NA
+455      0      0   NA
+456      0      0   NA
+457      0      0   NA
+458      0      0   NA
+459      0      0   NA
+460      0      0   NA
+461      0      0   NA
+462      0      0   NA
+463      0      0   NA
+464      0      0   NA
+465      0      0   NA
+466      0      0   NA
+467      0      0   NA
+468      1      1   1
+469      0      0   NA
+470      0      0   NA
+471      0      0   NA
+472      0      0   NA
+473      0      0   NA
+474      0      0   NA
+475      1      1   1
+476      0      0   NA
+477      0      0   NA
+478      0      0   NA
+479      0      0   NA
+480      0      0   NA
+481      0      1   0
+482      0      0   NA
+483      0      0   NA
+484      0      0   NA
+485      1      1   1
+486      0      0   NA
+487      0      0   NA
+488      0      0   NA
+489      1      1   1
+490      0      0   NA
+491      0      0   NA
+492      0      0   NA
+493      0      0   NA
+494      0      0   NA
+495      1      1   1
+496      0      0   NA
+497      0      0   NA
+498      0      0   NA
+499      0      0   NA
+500      0      0   NA
+501      0      0   NA
+502      0      0   NA
+503      0      0   NA
+504      0      0   NA
+505      0      0   NA
+506      0      0   NA
+507      0      0   NA
+508      0      0   NA
+509      0      0   NA
+510      0      0   NA
+511      0      0   NA
+512      0      0   NA
+513      0      0   NA
+514      0      0   NA
+515      0      0   NA
+516      1      1   1
+517      0      0   NA
+518      0      0   NA
+519      0      0   NA
+520      1      1   1
+521      0      0   NA
+522      0      0   NA
+523      0      0   NA
+524      0      0   NA
+525      0      0   NA
+526      0      0   NA
+527      0      0   NA
+528      1      1   1
+529      0      0   NA
+530      1      1   1
+531      0      0   NA
+532      0      0   NA
+533      0      0   NA
+534      0      0   NA
+535      0      0   NA
+536      0      0   NA
+537      0      0   NA
+538      0      0   NA
+539      0      0   NA
+540      0      0   NA
+541      0      0   NA
+542      0      0   NA
+543      0      0   NA
+544      0      0   NA
+545      0      0   NA
+546      0      0   NA
+547      1      1   1
+548      0      0   NA
+549      0      1   0
+550      0      0   NA
+551      0      0   NA
+552      0      0   NA
+553      0      0   NA
+554      0      0   NA
+555      0      0   NA
+556      0      0   NA
+557      0      0   NA
+558      0      0   NA
+559      0      0   NA
+560      0      0   NA
+561      0      0   NA
+562      0      0   NA
+563      0      0   NA
+564      0      0   NA
+565      0      0   NA
+566      0      0   NA
+567      0      0   NA
+568      0      0   NA
+569      0      0   NA
+570      0      0   NA
+571      0      0   NA
+572      0      0   NA
+573      0      0   NA
+574      0      0   NA
+575      0      0   NA
+576      0      0   NA
+577      0      1   0
+578      1      1   1
+579      0      0   NA
+580      0      0   NA
+581      0      0   NA
+582      0      0   NA
+583      0      0   NA
+584      1      1   1
+585      0      0   NA
+586      0      0   NA
+587      0      0   NA
+588      0      0   NA
+589      0      0   NA
+590      0      0   NA
+591      0      0   NA
+592      0      0   NA
+593      1      1   1
+594      0      0   NA
+595      2      2   1
+596      0      0   NA
+597      0      0   NA
+598      0      0   NA
+599      0      0   NA
+600      0      0   NA
+601      0      0   NA
+602      0      0   NA
+603      0      0   NA
+604      0      1   0
+605      0      0   NA
+606      0      0   NA
+607      0      0   NA
+608      0      0   NA
+609      0      0   NA
+610      0      0   NA
+611      0      1   0
+612      1      1   1
+613      0      0   NA
+614      0      0   NA
+615      0      0   NA
+616      0      0   NA
+617      0      0   NA
+618      0      0   NA
+619      0      0   NA
+620      0      0   NA
+621      0      0   NA
+622      0      0   NA
+623      0      0   NA
+624      1      1   1
+625      0      0   NA
+626      0      0   NA
+627      0      0   NA
+628      0      0   NA
+629      0      0   NA
+630      0      0   NA
+631      0      0   NA
+632      0      0   NA
+633      0      0   NA
+634      1      1   1
+635      0      0   NA
+636      0      0   NA
+637      0      0   NA
+638      0      0   NA
+639      0      0   NA
+640      0      0   NA
+641      0      0   NA
+642      0      0   NA
+643      0      0   NA
+644      0      0   NA
+645      0      0   NA
+646      0      0   NA
+647      0      0   NA
+648      0      0   NA
+649      0      0   NA
+650      0      0   NA
+651      1      1   1
+652      0      0   NA
+653      0      0   NA
+654      0      0   NA
+655      0      0   NA
+656      0      0   NA
+657      1      1   1
+658      0      0   NA
+659      0      0   NA
+660      0      0   NA
+661      0      0   NA
+662      0      0   NA
+663      0      0   NA
+664      0      0   NA
+665      0      0   NA
+666      0      0   NA
+667      0      0   NA
+668      1      1   1
+669      0      0   NA
+670      0      0   NA
+671      0      0   NA
+672      0      0   NA
+673      0      0   NA
+674      0      0   NA
+675      0      0   NA
+676      0      0   NA
+677      0      0   NA
+678      0      0   NA
+679      0      0   NA
+680      0      0   NA
+681      1      1   1
+682      0      0   NA
+683      0      1   0
+684      0      0   NA
+685      0      0   NA
+686      0      0   NA
+687      0      0   NA
+688      0      0   NA
+689      0      0   NA
+690      0      0   NA
+691      1      1   1
+692      0      0   NA
+693      0      0   NA
+694      0      0   NA
+695      0      1   0
+696      0      0   NA
+697      0      0   NA
+698      0      0   NA
+699      0      0   NA
+700      0      0   NA
+701      0      0   NA
+702      0      0   NA
+703      0      0   NA
+704      0      0   NA
+705      0      0   NA
+706      0      0   NA
+707      1      1   1
+708      1      1   1
+709      0      0   NA
+710      0      0   NA
+711      0      0   NA
+712      0      0   NA
+713      0      0   NA
+714      0      0   NA
+715      0      0   NA
+716      0      1   0
+717      0      0   NA
+718      0      0   NA
+719      0      0   NA
+720      0      0   NA
+721      1      1   1
+722      0      0   NA
+723      1      1   1
+724      0      0   NA
+725      0      0   NA
+726      0      0   NA
+727      0      0   NA
+728      0      0   NA
+729      0      0   NA
+730      0      0   NA
+731      0      0   NA
+732      1      1   1
+733      0      0   NA
+734      0      0   NA
+735      2      2   1
+736      0      0   NA
+737      0      0   NA
+738      0      0   NA
+739      0      0   NA
+740      0      0   NA
+741      0      0   NA
+742      0      0   NA
+743      0      0   NA
+744      0      0   NA
+745      0      0   NA
+746      0      0   NA
+747      0      0   NA
+748      0      0   NA
+749      0      0   NA
+750      0      0   NA
+751      0      0   NA
+752      0      0   NA
+753      0      0   NA
+754      0      0   NA
+755      1      1   1
+756      0      0   NA
+757      0      0   NA
+758      0      0   NA
+759      0      0   NA
+760      0      0   NA
+761      0      0   NA
+762      0      0   NA
+763      0      0   NA
+764      0      0   NA
+765      1      1   1
+766      0      0   NA
+767      0      0   NA
+768      0      0   NA
+769      0      0   NA
+770      0      0   NA
+771      0      0   NA
+772      0      0   NA
+773      0      0   NA
+774      0      0   NA
+775      0      0   NA
+776      0      0   NA
+777      0      0   NA
+778      1      1   1
+779      0      0   NA
+780      0      0   NA
+781      0      0   NA
+782      0      0   NA
+783      0      0   NA
+784      0      0   NA
+785      0      0   NA
+786      0      1   0
+787      0      0   NA
+788      0      0   NA
+789      0      0   NA
+790      0      0   NA
+791      0      0   NA
+792      1      1   1
+793      0      0   NA
+794      0      0   NA
+795      0      0   NA
+796      0      0   NA
+797      0      0   NA
+798      0      0   NA
+799      0      0   NA
+800      0      0   NA
+801      0      0   NA
+802      0      1   0
+803      0      0   NA
+804      0      0   NA
+805      0      0   NA
+806      0      0   NA
+807      0      0   NA
+808      0      0   NA
+809      0      0   NA
+810      0      0   NA
+811      0      0   NA
+812      0      0   NA
+813      0      0   NA
+814      0      0   NA
+815      0      0   NA
+816      1      1   1
+817      0      0   NA
+818      1      1   1
+819      0      0   NA
+820      0      0   NA
+821      0      0   NA
+822      0      0   NA
+823      0      0   NA
+824      0      0   NA
+825      0      0   NA
+826      0      0   NA
+827      1      1   1
+828      1      1   1
+829      0      0   NA
+830      0      0   NA
+831      0      0   NA
+832      0      0   NA
+833      0      0   NA
+834      1      1   1
+835      0      0   NA
+836      0      0   NA
+837      0      0   NA
+838      0      0   NA
+839      0      0   NA
+840      0      0   NA
+841      0      0   NA
+842      0      0   NA
+843      0      0   NA
+844      0      0   NA
+845      1      1   1
+846      0      0   NA
+847      0      0   NA
+848      0      0   NA
+849      0      0   NA
+850      1      1   1
+851      0      0   NA
+852      0      0   NA
+853      0      0   NA
+854      0      0   NA
+855      1      1   1
+856      1      1   1
+857      0      0   NA
+858      0      0   NA
+859      0      0   NA
+860      0      0   NA
+861      1      1   1
+862      1      1   1
+863      0      1   0
+864      0      0   NA
+865      1      1   1
+866      0      0   NA
+867      0      0   NA
+868      0      0   NA
+869      1      1   1
+870      0      0   NA
+871      0      0   NA
+872      0      1   0
+873      0      0   NA
+874      0      0   NA
+875      0      0   NA
+876      0      0   NA
+877      0      0   NA
+878      0      0   NA
+879      0      0   NA
+880      0      0   NA
+881      0      0   NA
+882      0      0   NA
+883      0      0   NA
+884      0      0   NA
+885      0      0   NA
+886      0      0   NA
+887      0      0   NA
+888      0      0   NA
+889      0      0   NA
+890      0      0   NA
+891      0      0   NA
+892      0      0   NA
+893      0      0   NA
+894      0      0   NA
+895      0      0   NA
+896      0      0   NA
+897      0      0   NA
+898      0      0   NA
+899      1      1   1
+900      0      0   NA
+901      0      0   NA
+902      0      0   NA
+903      0      0   NA
+904      0      0   NA
+905      1      1   1
+906      0      0   NA
+907      0      0   NA
+908      0      0   NA
+909      0      0   NA
+910      1      1   1
+911      0      0   NA
+912      0      0   NA
+913      1      1   1
+914      0      0   NA
+915      0      0   NA
+916      0      0   NA
+917      0      0   NA
+918      0      0   NA
+919      0      0   NA
+920      0      0   NA
+921      0      0   NA
+922      0      0   NA
+923      0      0   NA
+924      0      0   NA
+925      1      1   1
+926      0      0   NA
+927      0      0   NA
+928      0      0   NA
+929      1      1   1
+930      0      0   NA
+931      0      0   NA
+932      0      0   NA
+933      0      1   0
+934      0      0   NA
+935      0      0   NA
+936      1      2   0.5
+937      0      0   NA
+938      0      0   NA
+939      0      0   NA
+940      1      1   1
+941      0      0   NA
+942      0      0   NA
+943      0      0   NA
+944      0      0   NA
+945      0      0   NA
+946      1      1   1
+947      0      0   NA
+948      0      0   NA
+949      0      0   NA
+950      0      0   NA
+951      1      1   1
+952      1      1   1
+953      0      0   NA
+954      0      0   NA
+955      0      0   NA
+956      1      1   1
+957      0      1   0
+958      0      0   NA
+959      0      0   NA
+960      0      0   NA
+961      0      0   NA
+962      1      1   1
+963      0      0   NA
+964      0      0   NA
+965      1      1   1
+966      0      0   NA
+967      0      0   NA
+968      0      0   NA
+969      0      0   NA
+970      0      0   NA
+971      0      0   NA
+972      0      0   NA
+973      0      0   NA
+974      0      0   NA
+975      0      0   NA
+976      1      1   1
+977      0      0   NA
+978      0      0   NA
+979      0      0   NA
+980      0      0   NA
+981      1      1   1
+982      0      0   NA
+983      0      0   NA
+984      0      0   NA
+985      0      0   NA
+986      0      0   NA
+987      0      0   NA
+988      0      0   NA
+989      0      0   NA
+990      0      0   NA
+991      0      0   NA
+992      0      0   NA
+993      0      0   NA
+994      0      0   NA
+995      0      0   NA
+996      0      0   NA
+997      0      0   NA
+998      1      1   1
+999      0      0   NA
+1000      0      1   0
+1001      0      0   NA
+1002      0      0   NA
+1003      0      0   NA
+1004      0      0   NA
+1005      0      0   NA
+1006      0      0   NA
+1007      0      0   NA
+1008      1      1   1
+1009      0      0   NA
+1010      0      0   NA
+1011      0      0   NA
+1012      0      0   NA
+# SUMMARY
+# nsuccesses: 116 nattempts: 145 success_prob: 0.8 undetermined: 0

@@ -1,0 +1,6 @@
+condition1 = {
+dist_01 <= 1.0
+}
+condition2 = {
+dist_01 > 4.0
+}

@@ -1,0 +1,10 @@
+This is a strand displacement setup for toehold length 6 for RNA. 
+
+The input and configuration file needs to be changed to DNA2 model, and we might also want to change temperature to 25C.
+The input files have to be changed in each of the respective interface directories.
+
+The initial configuration for a DNA2 model has been prepared in initial configuration directory. Topology file is unique.top, configuration file is relaxed.dat.  You can add crowders to this system (note the box size is now set to 20 in relaxed.dat), relax with MC and MD, and then copy the resulting toplogy (unique.top) and configuration (flux_initial.dat) to FLUX directory, with the correc input file.
+
+This simulation takes ~ 1 week on 20 or so CPU to complete one replica.
+
+ 
