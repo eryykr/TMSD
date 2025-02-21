@@ -1,0 +1,4 @@
+41 3 5->3
+TGTGGGACTACTACT id=1 type=DNA circular=false
+AGTAGTAGTCCCACA id=2 type=DNA circular=false
+AGTAGTAGTCC id=3 type=RNA circular=false
