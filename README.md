@@ -1,5 +1,5 @@
 # TMSD
-Files accompanying the paper 'Controlling DNA-RNA strand displacement kinetics with base distribution'
+Files accompanying the paper 'Controlling DNA-RNA strand displacement kinetics with base distribution' (https://www.biorxiv.org/content/10.1101/2024.08.06.606789v1).
 
 'FFS_scripts' contains all files used for forward flux sampling simulations. Different sequences can be run by simply changing the sequences within .top files. Full results are can be found in the Supplementary Information.
 
